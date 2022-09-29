@@ -2,105 +2,164 @@
     "455913474": {
         "action": [
             {
-                "action_type": "SET_VARIABLE", 
+                "action_type": "IF_THEN_ELSE", 
                 "args_list": [
                     {
-                        "arg_type": 100028, 
+                        "arg_type": 100021, 
                         "args_list": [
                             {
-                                "__tuple__": true, 
-                                "items": [
-                                    "MODEL", 
-                                    "player1Model"
-                                ]
+                                "args_list": [
+                                    {
+                                        "arg_type": 100006, 
+                                        "args_list": [
+                                            1
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100003, 
+                                        "args_list": [
+                                            "rock"
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "condition_type": "UNIT_HAS_TAG", 
+                                "element_id": 455913474000051, 
+                                "enable": true
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [
+                            {
+                                "action_type": "REPLACE_UNIT_MODEL", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100006, 
+                                        "args_list": [
+                                            1
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100122, 
+                                        "args_list": [
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "MODEL", 
+                                                    "player1Model"
+                                                ]
+                                            }, 
+                                            {
+                                                "arg_type": 100002, 
+                                                "args_list": [
+                                                    2
+                                                ], 
+                                                "sub_type": 1
+                                            }
+                                        ], 
+                                        "sub_type": 4
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 455913474000054, 
+                                "enable": true
                             }, 
                             {
-                                "arg_type": 100002, 
+                                "action_type": "UNIT_REMOVE_TAG", 
                                 "args_list": [
-                                    1
+                                    {
+                                        "arg_type": 100006, 
+                                        "args_list": [
+                                            1
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100003, 
+                                        "args_list": [
+                                            "rock"
+                                        ], 
+                                        "sub_type": 1
+                                    }
                                 ], 
-                                "sub_type": 1
+                                "bp": false, 
+                                "element_id": 455913474000061, 
+                                "enable": true
                             }
                         ], 
                         "sub_type": 1
                     }, 
                     {
-                        "arg_type": 100122, 
+                        "arg_type": 100022, 
                         "args_list": [
-                            103533
-                        ], 
-                        "sub_type": 1
-                    }
-                ], 
-                "bp": false, 
-                "element_id": 455913474000024, 
-                "enable": true
-            }, 
-            {
-                "action_type": "SET_VARIABLE", 
-                "args_list": [
-                    {
-                        "arg_type": 100028, 
-                        "args_list": [
-                            [
-                                "MODEL", 
-                                "player1Model"
-                            ], 
                             {
-                                "arg_type": 100002, 
+                                "action_type": "REPLACE_UNIT_MODEL", 
                                 "args_list": [
-                                    2
+                                    {
+                                        "arg_type": 100006, 
+                                        "args_list": [
+                                            1
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100122, 
+                                        "args_list": [
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "MODEL", 
+                                                    "player1Model"
+                                                ]
+                                            }, 
+                                            {
+                                                "arg_type": 100002, 
+                                                "args_list": [
+                                                    1
+                                                ], 
+                                                "sub_type": 1
+                                            }
+                                        ], 
+                                        "sub_type": 4
+                                    }
                                 ], 
-                                "sub_type": 1
-                            }
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    {
-                        "arg_type": 100122, 
-                        "args_list": [
-                            200576
-                        ], 
-                        "sub_type": 1
-                    }
-                ], 
-                "bp": false, 
-                "element_id": 455913474000026, 
-                "enable": true
-            }, 
-            {
-                "action_type": "REPLACE_UNIT_MODEL", 
-                "args_list": [
-                    {
-                        "arg_type": 100006, 
-                        "args_list": [
-                            1
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    {
-                        "arg_type": 100122, 
-                        "args_list": [
-                            {
-                                "__tuple__": true, 
-                                "items": [
-                                    "MODEL", 
-                                    "player1Model"
-                                ]
+                                "bp": false, 
+                                "element_id": 455913474000058, 
+                                "enable": true
                             }, 
                             {
-                                "arg_type": 100002, 
+                                "action_type": "UNIT_ADD_TAG", 
                                 "args_list": [
-                                    2
+                                    {
+                                        "arg_type": 100006, 
+                                        "args_list": [
+                                            1
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100003, 
+                                        "args_list": [
+                                            "rock"
+                                        ], 
+                                        "sub_type": 1
+                                    }
                                 ], 
-                                "sub_type": 1
+                                "bp": false, 
+                                "element_id": 455913474000066, 
+                                "enable": true
                             }
                         ], 
-                        "sub_type": 4
+                        "sub_type": 1
                     }
                 ], 
                 "bp": false, 
-                "element_id": 455913474000017, 
+                "element_id": 455913474000031, 
                 "enable": true
             }
         ], 
@@ -3225,6 +3284,92 @@
     }, 
     "1487040513": {
         "action": [
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "MODEL", 
+                                "player1Model"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    2
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100122, 
+                        "args_list": [
+                            200576
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 455913474000026, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "MODEL", 
+                                "player1Model"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    1
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100122, 
+                        "args_list": [
+                            103533
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 455913474000024, 
+                "enable": true
+            }, 
+            {
+                "action_type": "UNIT_ADD_TAG", 
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100003, 
+                        "args_list": [
+                            "rock"
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1487040513777181, 
+                "enable": true
+            }, 
             [
                 1483777170, 
                 "Welcome to CliCli", 
