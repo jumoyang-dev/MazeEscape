@@ -3394,7 +3394,7 @@
         ], 
         "comment_str": {}, 
         "condition": [], 
-        "enabled": true, 
+        "enabled": false, 
         "event": [
             {
                 "args_list": [], 
@@ -3590,18 +3590,5 @@
         "trigger_id": 1707163653, 
         "trigger_name": "Movement", 
         "valid": false
-    }, 
-    "1756532740": {
-        "action": [], 
-        "comment_str": {}, 
-        "condition": [], 
-        "enabled": true, 
-        "event": [], 
-        "group_id": 0, 
-        "p_trigger_id": null, 
-        "script": "", 
-        "trigger_id": 1756532740, 
-        "trigger_name": "Movement_Player1", 
-        "valid": true
     }
 }

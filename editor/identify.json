@@ -1,7 +1,6 @@
 {
  "ui_node": {
   "default_black_background": 1005447512, 
-  "panel_1": 1426096601, 
   "image_188": 1350102768, 
   "time_txt": 1889586354, 
   "image_187": 1805749128, 
@@ -1234,7 +1233,11 @@
   "SceneUI": 1199126128, 
   "image_8": 1730787911, 
   "button_6": 2029879601, 
-  "win": 1353859380
+  "win": 1353859380, 
+  "Control Hint": 1015857767, 
+  "Background": 1581581510, 
+  "Control Text": 1753703360, 
+  "Control Text(1)": 1650846108
  }, 
  "tv1": {
   "player1Model": 1821114875

@@ -22,7 +22,7 @@
     "attack_speed_grow": 0.0, 
     "attack_type": 10000, 
     "bar_show_name": 0, 
-    "bar_show_scale": true, 
+    "bar_show_scale": false, 
     "bar_slot_size": 6, 
     "base_tint_color": {
         "__tuple__": true, 
@@ -109,7 +109,7 @@
     "init_stock": 5, 
     "intelligence": 10.0, 
     "intelligence_grow": 1.0, 
-    "is_apply_role_color": true, 
+    "is_apply_role_color": false, 
     "is_mini_map_show": true, 
     "is_shop": false, 
     "keep_dead_body_time": 0.0, 

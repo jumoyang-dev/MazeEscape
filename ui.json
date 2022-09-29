@@ -50841,6 +50841,134 @@
             "uid": "d4c01f64-7413-4c8e-b0e5-4297d4a59c7a", 
             "visible": false, 
             "zorder": 400
+        }, 
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "alignment": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1, 
+                                    0
+                                ]
+                            }, 
+                            "children": [], 
+                            "comp_anims": [], 
+                            "event_list": [], 
+                            "name": "Control Text", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    201.5, 
+                                    111.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.24937655860349, 
+                                    71.15384615384616
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    350.0, 
+                                    34.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "WASD to move", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "19120014-6ef1-4648-bd63-86418fe18953"
+                        }, 
+                        {
+                            "alignment": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1, 
+                                    0
+                                ]
+                            }, 
+                            "children": [], 
+                            "comp_anims": [], 
+                            "event_list": [], 
+                            "name": "Control Text(1)", 
+                            "pos": {
+                                "__tuple__": true, 
+                                "items": [
+                                    202.0, 
+                                    66.0
+                                ]
+                            }, 
+                            "pos_percent": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50.374064837905244, 
+                                    42.30769230769231
+                                ]
+                            }, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    350.0, 
+                                    34.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "Space to turn into a tree", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "c71c8dc5-576e-46df-97f7-1ed95fae5b5c"
+                        }
+                    ], 
+                    "comp_anims": [], 
+                    "event_list": [], 
+                    "image": 120120, 
+                    "name": "Background", 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            1689.0, 
+                            965.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            87.96875, 
+                            89.35185185185185
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            401.0, 
+                            156
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "7d0f54fb-ba7a-4d4a-a7c9-8a791c1e0057"
+                }
+            ], 
+            "editor_visible": false, 
+            "name": "Control Hint", 
+            "opacity": 1.0, 
+            "type": 2, 
+            "uid": "a032e850-df43-4e76-ac14-512af693181e", 
+            "visible": true, 
+            "zorder": 400
         }
     ], 
     "ui_template_id": 2, 

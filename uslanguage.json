@@ -1,4 +1,12 @@
 {
+    "-2030659636": {
+        "key": -2030659636, 
+        "value": "Tree1"
+    }, 
+    "-1922099886": {
+        "key": -1922099886, 
+        "value": "Template"
+    }, 
     "320676837": {
         "key": 320676837, 
         "value": "Template"
@@ -6,6 +14,14 @@
     "1364738698": {
         "key": 1364738698, 
         "value": "Player_Rock"
+    }, 
+    "#19120014-6ef1-4648-bd63-86418fe18953#text": {
+        "key": "#19120014-6ef1-4648-bd63-86418fe18953#text", 
+        "value": "WASD to move"
+    }, 
+    "#c71c8dc5-576e-46df-97f7-1ed95fae5b5c#text": {
+        "key": "#c71c8dc5-576e-46df-97f7-1ed95fae5b5c#text", 
+        "value": "Space to turn into a tree"
     }, 
     "$faction 1": {
         "key": "$faction 1", 
