@@ -1,0 +1,14 @@
+{
+    "describe": 256700749, 
+    "essential_socket": {}, 
+    "key": 103533, 
+    "map_name": "H69\u8bf8\u795e\u9ec4\u660f2", 
+    "model_id": 240143, 
+    "name": -632026523, 
+    "preview_icon": "UP1ModelPreview/103533", 
+    "select_effect_scale": 5.88235294118, 
+    "size": 0.17, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_103533"
+}

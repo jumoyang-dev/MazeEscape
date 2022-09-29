@@ -1,0 +1,130 @@
+{
+    "local_variable": {
+        "737558534": {
+            "variable_dict": {
+                "ANGLE": {
+                    "MS_mouseDir": 0.0, 
+                    "MS_walkingDir": 0.0
+                }, 
+                "BOOLEAN": {
+                    "MS_idleAnim": false, 
+                    "MS_walking": false, 
+                    "MS_wallHit": false
+                }, 
+                "FLOAT": {
+                    "MS_OldMoveSpeed": 0.0, 
+                    "MS_newX": 0.0, 
+                    "MS_newY": 0.0
+                }, 
+                "INTEGER": {
+                    "MS_oldWalkAnimDir": 0, 
+                    "MS_walkAnimDir": 0
+                }, 
+                "MODIFIER": {
+                    "MS_AnimModifierType": 0
+                }, 
+                "NEW_TIMER": {
+                    "MS_Movement Timer": -1
+                }, 
+                "PLAYER": {
+                    "MS_p": 0
+                }, 
+                "POINT": {
+                    "MS_tPoint": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "UNIT_ENTITY": {
+                    "MS_unit": 0, 
+                    "WASDTarget": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "MS_AnimModifierType": 0, 
+                "MS_Movement Timer": 0, 
+                "MS_OldMoveSpeed": 0, 
+                "MS_idleAnim": 0, 
+                "MS_mouseDir": 0, 
+                "MS_newX": 0, 
+                "MS_newY": 0, 
+                "MS_oldWalkAnimDir": 0, 
+                "MS_p": 0, 
+                "MS_tPoint": 0, 
+                "MS_unit": 0, 
+                "MS_walkAnimDir": 0, 
+                "MS_walking": 0, 
+                "MS_walkingDir": 0, 
+                "MS_wallHit": 0, 
+                "WASDTarget": 0
+            }, 
+            "variable_type_dict": {
+                "MS_AnimModifierType": false, 
+                "MS_Movement Timer": false, 
+                "MS_OldMoveSpeed": false, 
+                "MS_idleAnim": false, 
+                "MS_mouseDir": false, 
+                "MS_newX": false, 
+                "MS_newY": false, 
+                "MS_oldWalkAnimDir": false, 
+                "MS_p": false, 
+                "MS_tPoint": false, 
+                "MS_unit": false, 
+                "MS_walkAnimDir": false, 
+                "MS_walking": false, 
+                "MS_walkingDir": false, 
+                "MS_wallHit": false, 
+                "WASDTarget": false
+            }
+        }, 
+        "1707163653": {
+            "variable_dict": {
+                "PLAYER": {
+                    "PlayerHider": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "Player1Unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "Player1Unit": 0, 
+                "PlayerHider": 0
+            }, 
+            "variable_type_dict": {
+                "Player1Unit": false, 
+                "PlayerHider": false
+            }
+        }
+    }, 
+    "variable_comments": {}, 
+    "variable_dict": {
+        "INTEGER": {}, 
+        "MODEL": {
+            "player1Model": 0
+        }, 
+        "UNIT_ENTITY": {}, 
+        "UNIT_NAME": {}
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "player1Model", 
+                "(player1Model)"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "player1Model": 10
+    }, 
+    "variable_remark": {
+        "player1Model": ""
+    }, 
+    "variable_type_dict": {
+        "player1Model": true
+    }
+}

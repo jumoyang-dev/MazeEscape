@@ -1,0 +1,27 @@
+{
+    "base": {
+        "time": 6
+    }, 
+    "fog": {
+        "color": {
+            "__tuple__": true, 
+            "items": [
+                96, 
+                149, 
+                206, 
+                255
+            ]
+        }, 
+        "density": 1, 
+        "end": 450, 
+        "height_begin": 0, 
+        "height_end": 100, 
+        "start": 300
+    }, 
+    "sky_box": {
+        "sky_box_type": "world/lingsheng/skybox/HDR_00.png"
+    }, 
+    "terrain": {
+        "terrain_version": 1
+    }
+}

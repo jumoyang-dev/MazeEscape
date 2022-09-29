@@ -1,0 +1,1363 @@
+{
+    "134269632": {
+        "_custom_": true, 
+        "_ref_": 134269632, 
+        "affect_techs": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "agility": 10.0, 
+        "agility_grow": 1.0, 
+        "alarm_range": 8.0, 
+        "angle_tolerance": 1, 
+        "armor_type": 20000, 
+        "attack_interval": 1, 
+        "attack_interval_grow": 0.01, 
+        "attack_mag": 0.0, 
+        "attack_mag_grow": 0.0, 
+        "attack_phy": 100.0, 
+        "attack_phy_grow": 2.0, 
+        "attack_range": 10, 
+        "attack_range_grow": 0, 
+        "attack_speed": 100.0, 
+        "attack_speed_grow": 0.0, 
+        "attack_type": 10000, 
+        "bar_show_name": 0, 
+        "bar_show_scale": true, 
+        "bar_slot_size": 6, 
+        "base_tint_color": {
+            "__tuple__": true, 
+            "items": [
+                255, 
+                255, 
+                255, 
+                0.5
+            ]
+        }, 
+        "blood_bar": 0, 
+        "blood_show_type": 0, 
+        "body_size": 1.0, 
+        "build_res_cost_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "buy_res_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "can_flee": true, 
+        "cancel_alarm_range": 10.0, 
+        "cd_reduce": 0.0, 
+        "cd_reduce_grow": 0.0, 
+        "common_ability_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "common_atk": {
+            "__tuple__": true, 
+            "items": [
+                201347498, 
+                1
+            ]
+        }, 
+        "common_atk_type": 0, 
+        "content": "strength", 
+        "copper coin": 0, 
+        "critical_chance": 0.0, 
+        "critical_chance_grow": 0.0, 
+        "critical_dmg": 200.0, 
+        "critical_dmg_grow": 0.0, 
+        "dead_exp": 10, 
+        "dead_money": 5, 
+        "default_behaviour_type": "caution", 
+        "defense_mag": 0.0, 
+        "defense_mag_grow": 0.0, 
+        "defense_phy": 10.0, 
+        "defense_phy_grow": 5.0, 
+        "description": 320676837, 
+        "destroy_after_die": true, 
+        "die_anim": "die", 
+        "dmg_reduction": 0.0, 
+        "dmg_reduction_grow": 0.0, 
+        "dodge_rate": 0.0, 
+        "dodge_rate_grow": 0.0, 
+        "drop_items_tuple": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "dynamic_collision_r": 1.0, 
+        "extra_dmg": 0.0, 
+        "extra_dmg_grow": 0.0, 
+        "gainvalue": 0.0, 
+        "gainvalue_grow": 0.0, 
+        "gold coin": 100, 
+        "has_mp": false, 
+        "has_shield": true, 
+        "heal_effect": 0.0, 
+        "heal_effect_grow": 0.0, 
+        "hero_ability_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "hit_rate": 100.0, 
+        "hit_rate_grow": 0.0, 
+        "hp_max": 1000.0, 
+        "hp_max_grow": 100.0, 
+        "hp_rec": 10, 
+        "hp_rec_grow": 1, 
+        "icon": 100174, 
+        "idle_anim": "idle1", 
+        "init_stock": 5, 
+        "intelligence": 10.0, 
+        "intelligence_grow": 1.0, 
+        "is_apply_role_color": true, 
+        "is_mini_map_show": true, 
+        "is_shop": false, 
+        "keep_dead_body_time": 0.0, 
+        "key": 134269632, 
+        "kv": {}, 
+        "level": 1, 
+        "main_attr": "strength", 
+        "max_stock": 5, 
+        "mini_map_icon": 100174, 
+        "mini_map_icon_scale": 1.0, 
+        "model": 103533, 
+        "model_height": 0.0, 
+        "move_channel": 0, 
+        "move_limitation": 1, 
+        "move_type": 40, 
+        "mp_color": "Blue", 
+        "mp_key": "MP", 
+        "mp_max": 600.0, 
+        "mp_max_grow": 50.0, 
+        "mp_rec": 10, 
+        "mp_rec_grow": 2, 
+        "name": 1364738698, 
+        "ori_bits": 0, 
+        "ori_speed": 2.0, 
+        "ori_speed_grow": 0.0, 
+        "passive_ability_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "pene_mag": 0.0, 
+        "pene_mag_grow": 0.0, 
+        "pene_mag_ratio": 0.0, 
+        "pene_mag_ratio_grow": 0.0, 
+        "pene_phy": 0.0, 
+        "pene_phy_grow": 0.0, 
+        "pene_phy_ratio": 0.0, 
+        "pene_phy_ratio_grow": 0.0, 
+        "pkg_slot_size": 60, 
+        "precondition_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "refresh_interval": 1.0, 
+        "research_techs": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "resilience": 0.0, 
+        "resilience_grow": 0.0, 
+        "reward_exp": 5, 
+        "reward_official_res_1": 0.0, 
+        "role_color_scale": 1.0, 
+        "rotate_speed": 9.42, 
+        "sell_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "sell_res_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "shop_camp_args": 3, 
+        "shop_range": 10.0, 
+        "shop_select": false, 
+        "shop_sell_type": 0, 
+        "silver coin": 0, 
+        "simple_common_atk": {
+            "ability_animations": {
+                "__tuple__": true, 
+                "items": [
+                    "attack1"
+                ]
+            }, 
+            "ability_bw_point": 0.5, 
+            "ability_cast_point": 0.2, 
+            "attack_trajectory": {
+                "effect": 0, 
+                "follow_scale": true, 
+                "scale": 1.0, 
+                "socket": "origin"
+            }, 
+            "cast_effect_list": {
+                "__tuple__": true, 
+                "items": []
+            }, 
+            "cast_sound": 0, 
+            "critical_anim": "attack1", 
+            "damage": 100.0, 
+            "damage_type": 0, 
+            "filter_condition_camp": 1, 
+            "filter_condition_type": 7, 
+            "hit_effect": {
+                "effect": 0, 
+                "follow_scale": true, 
+                "scale": 1.0, 
+                "socket": "origin"
+            }, 
+            "hit_sound": 0, 
+            "order_play_anim": false, 
+            "order_play_reset_time": 0.5, 
+            "trajectory_radian": 1.0, 
+            "trajectory_speed": 1000.0
+        }, 
+        "sound_event_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "special_idle_anim": "idle2", 
+        "speed_ratio_in_turn": 0.6, 
+        "standard_walk_rate": 36.0, 
+        "start_rft": 1.0, 
+        "strength": 10.0, 
+        "strength_grow": 1.0, 
+        "suffix": "", 
+        "tags": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "type": 1, 
+        "uid": "134269632", 
+        "use_base_tint_color": false, 
+        "vampire_mag": 0.0, 
+        "vampire_mag_grow": 0.0, 
+        "vampire_phy": 0.0, 
+        "vampire_phy_grow": 0.0, 
+        "view_type": 0, 
+        "vision_night": 8.0, 
+        "vision_rng": 10.0, 
+        "vision_true": 0.0, 
+        "vision_true_grow": 0, 
+        "walk_anim": "walk"
+    }, 
+    "201330118": {
+        "affect_techs": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "agility": 0.0, 
+        "agility_grow": 0.0, 
+        "alarm_range": 8.0, 
+        "angle_tolerance": 1.0, 
+        "armor_type": 20000, 
+        "attack_interval": 1.0, 
+        "attack_interval_grow": 0.01, 
+        "attack_mag": 0.0, 
+        "attack_mag_grow": 0.0, 
+        "attack_phy": 100.0, 
+        "attack_phy_grow": 0.0, 
+        "attack_range": 10.0, 
+        "attack_range_grow": 0.0, 
+        "attack_speed": 100.0, 
+        "attack_speed_grow": 0.0, 
+        "attack_type": 10000, 
+        "bar_show_name": 0, 
+        "bar_show_scale": true, 
+        "bar_slot_size": 0, 
+        "base_tint_color": {
+            "__tuple__": true, 
+            "items": [
+                255, 
+                255, 
+                255, 
+                0.5
+            ]
+        }, 
+        "blood_bar": 262148, 
+        "blood_show_type": 0, 
+        "body_size": 1.0, 
+        "build_res_cost_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "buy_res_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "can_flee": true, 
+        "cancel_alarm_range": 10.0, 
+        "cd_reduce": 0.0, 
+        "cd_reduce_grow": 0.0, 
+        "collision_points": {
+            "__tuple__": true, 
+            "items": [
+                [
+                    -5, 
+                    -5
+                ], 
+                [
+                    6, 
+                    6
+                ], 
+                0, 
+                1.0
+            ]
+        }, 
+        "common_ability_list": {
+            "__tuple__": true, 
+            "items": [
+                [
+                    201369924, 
+                    1
+                ]
+            ]
+        }, 
+        "common_atk": {
+            "__tuple__": true, 
+            "items": [
+                201385536, 
+                1
+            ]
+        }, 
+        "common_atk_type": 2, 
+        "content": "strength", 
+        "copper coin": 0, 
+        "critical_chance": 0.0, 
+        "critical_chance_grow": 0.0, 
+        "critical_dmg": 200.0, 
+        "critical_dmg_grow": 0.0, 
+        "dead_exp": 5, 
+        "dead_money": 5, 
+        "default_behaviour_type": "caution", 
+        "defense_mag": 0.0, 
+        "defense_mag_grow": 0.0, 
+        "defense_phy": 10.0, 
+        "defense_phy_grow": 0.0, 
+        "description": 700607748, 
+        "destroy_after_die": true, 
+        "die_anim": "die", 
+        "dmg_reduction": 0.0, 
+        "dmg_reduction_grow": 0.0, 
+        "dodge_rate": 0.0, 
+        "dodge_rate_grow": 0.0, 
+        "drop_items_tuple": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "dynamic_collision_r": 1.0, 
+        "extra_dmg": 0.0, 
+        "extra_dmg_grow": 0.0, 
+        "gainvalue": 0.0, 
+        "gainvalue_grow": 0.0, 
+        "gold coin": 100, 
+        "has_mp": false, 
+        "has_shield": true, 
+        "heal_effect": 0.0, 
+        "heal_effect_grow": 0.0, 
+        "hero_ability_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "hit_rate": 100.0, 
+        "hit_rate_grow": 0.0, 
+        "hp_max": 1000.0, 
+        "hp_max_grow": 0.0, 
+        "hp_rec": 10.0, 
+        "hp_rec_grow": 1.0, 
+        "icon": 102030, 
+        "idle_anim": "idle1", 
+        "init_stock": 5, 
+        "intelligence": 0.0, 
+        "intelligence_grow": 0.0, 
+        "is_apply_role_color": false, 
+        "is_mini_map_show": true, 
+        "is_shop": false, 
+        "keep_dead_body_time": 2.0, 
+        "key": 201330118, 
+        "kv": {}, 
+        "level": 1, 
+        "main_attr": "strength", 
+        "max_stock": 5, 
+        "mini_map_icon": 100000, 
+        "mini_map_icon_scale": 1.0, 
+        "model": 101351, 
+        "model_height": 0.0, 
+        "move_channel": 0, 
+        "move_limitation": 1, 
+        "move_type": 40, 
+        "mp_color": "Blue", 
+        "mp_key": "MP", 
+        "mp_max": 600.0, 
+        "mp_max_grow": 0.0, 
+        "mp_rec": 10.0, 
+        "mp_rec_grow": 2.0, 
+        "name": -1742093428, 
+        "ori_bits": 88, 
+        "ori_speed": 0.0, 
+        "ori_speed_grow": 0.0, 
+        "passive_ability_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "pene_mag": 0.0, 
+        "pene_mag_grow": 0.0, 
+        "pene_mag_ratio": 0.0, 
+        "pene_mag_ratio_grow": 0.0, 
+        "pene_phy": 0.0, 
+        "pene_phy_grow": 0.0, 
+        "pene_phy_ratio": 0.0, 
+        "pene_phy_ratio_grow": 0.0, 
+        "pkg_slot_size": 0, 
+        "precondition_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "refresh_interval": 1.0, 
+        "research_techs": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "resilience": 0.0, 
+        "resilience_grow": 0.0, 
+        "reward_exp": 5, 
+        "reward_official_res_1": 0.0, 
+        "role_color_scale": 1.0, 
+        "rotate_speed": 10.0, 
+        "sell_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "sell_res_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "shop_camp_args": 3, 
+        "shop_range": 10.0, 
+        "shop_select": false, 
+        "shop_sell_type": 0, 
+        "silver coin": 0, 
+        "simple_common_atk": {
+            "ability_animations": {
+                "__tuple__": true, 
+                "items": []
+            }, 
+            "ability_bw_point": 0.5, 
+            "ability_cast_point": 0.2, 
+            "attack_trajectory": {
+                "effect": 0, 
+                "follow_scale": true, 
+                "scale": 1.0, 
+                "socket": "origin"
+            }, 
+            "cast_effect_list": {
+                "__tuple__": true, 
+                "items": []
+            }, 
+            "cast_sound": 0, 
+            "critical_anim": "attack1", 
+            "damage": 100.0, 
+            "damage_type": 0, 
+            "filter_condition_camp": 1, 
+            "filter_condition_type": 7, 
+            "hit_effect": {
+                "effect": 0, 
+                "follow_scale": true, 
+                "scale": 1.0, 
+                "socket": "origin"
+            }, 
+            "hit_sound": 0, 
+            "order_play_anim": false, 
+            "order_play_reset_time": 0.5, 
+            "trajectory_radian": 1.0, 
+            "trajectory_speed": 1000.0
+        }, 
+        "sound_event_list": [], 
+        "special_idle_anim": "idle2", 
+        "speed_ratio_in_turn": 0.6, 
+        "standard_walk_rate": 36.0, 
+        "start_rft": 1.0, 
+        "strength": 0.0, 
+        "strength_grow": 0.0, 
+        "suffix": "", 
+        "tags": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "type": 2, 
+        "uid": "201330118", 
+        "use_base_tint_color": false, 
+        "vampire_mag": 0.0, 
+        "vampire_mag_grow": 0.0, 
+        "vampire_phy": 0.0, 
+        "vampire_phy_grow": 0.0, 
+        "view_type": 0, 
+        "vision_night": 80.0, 
+        "vision_rng": 80.0, 
+        "vision_true": 0.0, 
+        "vision_true_grow": 0.0, 
+        "walk_anim": "walk"
+    }, 
+    "201334735": {
+        "affect_techs": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "agility": 10, 
+        "agility_grow": 1, 
+        "alarm_range": 80.0, 
+        "angle_tolerance": 1.0, 
+        "armor_type": 20000, 
+        "attack_interval": 1.0, 
+        "attack_interval_grow": 0, 
+        "attack_mag": 50, 
+        "attack_mag_grow": 2, 
+        "attack_phy": 50.0, 
+        "attack_phy_grow": 2, 
+        "attack_range": 10.0, 
+        "attack_range_grow": 0, 
+        "attack_speed": 100, 
+        "attack_speed_grow": 0, 
+        "attack_type": 10000, 
+        "back_range": 120, 
+        "bar_show_name": 0, 
+        "bar_show_scale": true, 
+        "bar_show_title": false, 
+        "bar_slot_size": 6, 
+        "bar_title_style": 0, 
+        "base_tint_color": {
+            "__tuple__": true, 
+            "items": [
+                255, 
+                255, 
+                255, 
+                0.5
+            ]
+        }, 
+        "blood_bar": 65537, 
+        "blood_show_type": 0, 
+        "body_size": 1.0, 
+        "box_angle": 360, 
+        "box_length1": 0, 
+        "box_length2": 0, 
+        "box_r": 6, 
+        "box_type": 2, 
+        "build_precondition_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "build_res_cost_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "building_rotatable": true, 
+        "buy_res_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "can_flee": true, 
+        "cancel_alarm_range": 80.0, 
+        "cd_reduce": 0, 
+        "cd_reduce_grow": 0, 
+        "collision": 1, 
+        "collision_points": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "combat_range": 90, 
+        "common_ability_list": {
+            "__tuple__": true, 
+            "items": [
+                [
+                    134250998, 
+                    1
+                ]
+            ]
+        }, 
+        "common_atk": {
+            "__tuple__": true, 
+            "items": [
+                201347498, 
+                1
+            ]
+        }, 
+        "common_atk_type": 2, 
+        "copper_coin": 100.0, 
+        "critical_chance": 0, 
+        "critical_chance_grow": 0, 
+        "critical_dmg": 200, 
+        "critical_dmg_grow": 0, 
+        "custom_1": 0, 
+        "custom_1_grow": 0, 
+        "default_behaviour_type": "defense", 
+        "defense_mag": 10, 
+        "defense_mag_grow": 5, 
+        "defense_phy": 10, 
+        "defense_phy_grow": 5, 
+        "description": -1975697128, 
+        "destroy_after_die": true, 
+        "die_anim": "die", 
+        "dmg_reduction": 0, 
+        "dmg_reduction_grow": 0, 
+        "dodge_rate": 0, 
+        "dodge_rate_grow": 0, 
+        "drop_item": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "drop_items_tuple": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "dye_color": "Blue", 
+        "dye_color_plan": 0, 
+        "dynamic_collision_r": 0.5, 
+        "dynamic_collision_type": 1, 
+        "dynamic_collision_x": 1, 
+        "dynamic_collision_z": 1, 
+        "extra_dmg": 0, 
+        "extra_dmg_grow": 0, 
+        "gainvalue": 0, 
+        "gainvalue_grow": 0, 
+        "gold_coin": 100.0, 
+        "has_mp": true, 
+        "has_shield": true, 
+        "heal_effect": 0, 
+        "heal_effect_grow": 0, 
+        "hero_ability_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "hit_rate": 100, 
+        "hit_rate_grow": 0, 
+        "hp_max": 100.0, 
+        "hp_max_grow": 100, 
+        "hp_rec": 10, 
+        "hp_rec_grow": 1, 
+        "icon": 101888, 
+        "idle_anim": "idle1", 
+        "init_stock": 5, 
+        "intelligence": 10, 
+        "intelligence_grow": 1, 
+        "is_apply_role_color": false, 
+        "is_mini_map_show": true, 
+        "is_shop": false, 
+        "keep_dead_body_time": 2, 
+        "key": 201334735, 
+        "kv": {}, 
+        "level": 1, 
+        "logic_rotate_speed_valid": false, 
+        "logic_upper_rotate_speed_valid": false, 
+        "main_attr": "intelligence", 
+        "max_stock": 5, 
+        "mini_map_icon": 0, 
+        "mini_map_icon_scale": 1, 
+        "model": 100768, 
+        "model_height": 0.0, 
+        "move_channel": 0, 
+        "move_limitation": 1, 
+        "move_type": 40, 
+        "mp_color": "Blue", 
+        "mp_key": "MP", 
+        "mp_max": 600, 
+        "mp_max_grow": 50, 
+        "mp_rec": 80, 
+        "mp_rec_grow": 2, 
+        "name": -2086718888, 
+        "ori_bits": 0, 
+        "ori_speed": 5.0, 
+        "ori_speed_grow": 0, 
+        "passive_ability_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "pene_mag": 0, 
+        "pene_mag_grow": 0, 
+        "pene_mag_ratio": 0, 
+        "pene_mag_ratio_grow": 0, 
+        "pene_phy": 0, 
+        "pene_phy_grow": 0, 
+        "pene_phy_ratio": 0, 
+        "pene_phy_ratio_grow": 0, 
+        "pkg_slot_size": 60, 
+        "precondition_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "refresh_interval": 1.0, 
+        "research_techs": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "resilience": 0, 
+        "resilience_grow": 0, 
+        "reward_exp": 10, 
+        "reward_official_res_1": 0, 
+        "reward_official_res_2": 3.0, 
+        "role_color_scale": 1.0, 
+        "rotate_speed": 9.42, 
+        "scale": 1.2, 
+        "sell_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "sell_res_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "shop_camp_args": 3, 
+        "shop_key": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "shop_range": 10, 
+        "shop_select": false, 
+        "shop_sell_type": 0, 
+        "silver_coin": 100.0, 
+        "simple_common_atk": {
+            "ability_animations": {
+                "__tuple__": true, 
+                "items": []
+            }, 
+            "ability_bw_point": 0.5, 
+            "ability_cast_point": 0.2, 
+            "attack_trajectory": {
+                "effect": 0, 
+                "follow_scale": true, 
+                "scale": 1.0, 
+                "socket": "origin"
+            }, 
+            "cast_effect_list": {
+                "__tuple__": true, 
+                "items": []
+            }, 
+            "cast_sound": 0, 
+            "critical_anim": "attack1", 
+            "damage": 100.0, 
+            "damage_type": 0, 
+            "filter_condition_camp": 1, 
+            "filter_condition_type": 7, 
+            "hit_effect": {
+                "effect": 0, 
+                "follow_scale": true, 
+                "scale": 1.0, 
+                "socket": "origin"
+            }, 
+            "hit_sound": 0, 
+            "order_play_anim": false, 
+            "order_play_reset_time": 0.5, 
+            "trajectory_radian": 1.0, 
+            "trajectory_speed": 1000.0
+        }, 
+        "sound_event_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "special_idle_anim": "idle2", 
+        "speed_ratio_in_turn": 0.6, 
+        "standard_walk_rate": 36, 
+        "start_rft": 1.0, 
+        "strength": 10, 
+        "strength_grow": 1, 
+        "suffix": "", 
+        "support_range": 50, 
+        "tags": {
+            "__tuple__": true, 
+            "items": [
+                "warrior"
+            ]
+        }, 
+        "theme": 1, 
+        "title_bg_opacity": 1.0, 
+        "title_bg_scale": 1.0, 
+        "title_font_type": "gui/fonts/hy_yakuhei_65w.ttf", 
+        "title_scale": 1.0, 
+        "title_text_size": 40, 
+        "turn_speed": 1, 
+        "type": 4, 
+        "uid": "201334735", 
+        "unit_title": "", 
+        "use_base_tint_color": false, 
+        "vampire_mag": 0, 
+        "vampire_mag_grow": 0, 
+        "vampire_phy": 0, 
+        "vampire_phy_grow": 0, 
+        "vect_drawing": 0, 
+        "view_type": 0, 
+        "vision_night": 80, 
+        "vision_rng": 0.0, 
+        "vision_true": 0, 
+        "vision_true_grow": 0, 
+        "walk_anim": "walk"
+    }, 
+    "201357218": {
+        "affect_techs": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "agility": 10, 
+        "agility_grow": 1, 
+        "alarm_range": 80.0, 
+        "angle_tolerance": 1.0, 
+        "armor_type": 20000, 
+        "attack_interval": 1.0, 
+        "attack_interval_grow": 0.01, 
+        "attack_mag": 50, 
+        "attack_mag_grow": 2, 
+        "attack_phy": 50.0, 
+        "attack_phy_grow": 2, 
+        "attack_range": 10.0, 
+        "attack_range_grow": 0.0, 
+        "attack_speed": 100, 
+        "attack_speed_grow": 0, 
+        "attack_type": 10000, 
+        "back_range": 120, 
+        "bar_show_name": 0, 
+        "bar_show_scale": true, 
+        "bar_show_title": false, 
+        "bar_slot_size": 6, 
+        "bar_title_style": 0, 
+        "base_tint_color": {
+            "__tuple__": true, 
+            "items": [
+                255, 
+                255, 
+                255, 
+                0.5
+            ]
+        }, 
+        "blood_bar": 65537, 
+        "blood_show_type": 0, 
+        "body_size": 1.0, 
+        "box_angle": 360, 
+        "box_length1": 0, 
+        "box_length2": 0, 
+        "box_r": 6, 
+        "box_type": 2, 
+        "build_precondition_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "build_res_cost_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "building_rotatable": true, 
+        "buy_res_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "can_flee": true, 
+        "cancel_alarm_range": 80.0, 
+        "cd_reduce": 0, 
+        "cd_reduce_grow": 0, 
+        "collision": 1, 
+        "collision_points": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "combat_range": 90, 
+        "common_ability_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "common_atk": {
+            "__tuple__": true, 
+            "items": [
+                201347498, 
+                1
+            ]
+        }, 
+        "common_atk_type": 2, 
+        "copper_coin": 100.0, 
+        "critical_chance": 0, 
+        "critical_chance_grow": 0, 
+        "critical_dmg": 200, 
+        "critical_dmg_grow": 0, 
+        "custom_1": 0, 
+        "custom_1_grow": 0, 
+        "default_behaviour_type": "defense", 
+        "defense_mag": 10, 
+        "defense_mag_grow": 5, 
+        "defense_phy": 10, 
+        "defense_phy_grow": 5, 
+        "description": 912170714, 
+        "destroy_after_die": true, 
+        "die_anim": "die", 
+        "dmg_reduction": 0, 
+        "dmg_reduction_grow": 0, 
+        "dodge_rate": 0, 
+        "dodge_rate_grow": 0, 
+        "drop_item": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "drop_items_tuple": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "dye_color": "Blue", 
+        "dye_color_plan": 0, 
+        "dynamic_collision_r": 0.5, 
+        "dynamic_collision_type": 1, 
+        "dynamic_collision_x": 1, 
+        "dynamic_collision_z": 1, 
+        "extra_dmg": 0, 
+        "extra_dmg_grow": 0, 
+        "gainvalue": 0, 
+        "gainvalue_grow": 0, 
+        "gold_coin": 100.0, 
+        "has_mp": true, 
+        "has_shield": true, 
+        "heal_effect": 0, 
+        "heal_effect_grow": 0, 
+        "hero_ability_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "hit_rate": 100, 
+        "hit_rate_grow": 0, 
+        "hp_max": 10000.0, 
+        "hp_max_grow": 100, 
+        "hp_rec": 10, 
+        "hp_rec_grow": 1, 
+        "icon": 101768, 
+        "idle_anim": "idle1", 
+        "init_stock": 5, 
+        "intelligence": 10, 
+        "intelligence_grow": 1, 
+        "is_apply_role_color": false, 
+        "is_mini_map_show": true, 
+        "is_shop": false, 
+        "keep_dead_body_time": 2, 
+        "key": 201357218, 
+        "kv": {}, 
+        "level": 1, 
+        "logic_rotate_speed_valid": false, 
+        "logic_upper_rotate_speed_valid": false, 
+        "main_attr": "intelligence", 
+        "max_stock": 5, 
+        "mini_map_icon": 0, 
+        "mini_map_icon_scale": 1, 
+        "model": 104793, 
+        "model_height": 0.0, 
+        "move_channel": 0, 
+        "move_limitation": 1, 
+        "move_type": 40, 
+        "mp_color": "Blue", 
+        "mp_key": "MP", 
+        "mp_max": 600, 
+        "mp_max_grow": 50, 
+        "mp_rec": 80, 
+        "mp_rec_grow": 2, 
+        "name": 1604765324, 
+        "ori_bits": 0, 
+        "ori_speed": 5.0, 
+        "ori_speed_grow": 0, 
+        "passive_ability_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "pene_mag": 0, 
+        "pene_mag_grow": 0, 
+        "pene_mag_ratio": 0, 
+        "pene_mag_ratio_grow": 0, 
+        "pene_phy": 0, 
+        "pene_phy_grow": 0, 
+        "pene_phy_ratio": 0, 
+        "pene_phy_ratio_grow": 0, 
+        "pkg_slot_size": 60, 
+        "precondition_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "refresh_interval": 1.0, 
+        "research_techs": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "resilience": 0, 
+        "resilience_grow": 0, 
+        "reward_exp": 10, 
+        "reward_official_res_1": 0, 
+        "reward_official_res_2": 3.0, 
+        "role_color_scale": 1.0, 
+        "rotate_speed": 9.42, 
+        "scale": 1.2, 
+        "sell_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "sell_res_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "shop_camp_args": 3, 
+        "shop_key": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "shop_range": 10, 
+        "shop_select": false, 
+        "shop_sell_type": 0, 
+        "silver_coin": 100.0, 
+        "simple_common_atk": {
+            "ability_animations": {
+                "__tuple__": true, 
+                "items": []
+            }, 
+            "ability_bw_point": 0.5, 
+            "ability_cast_point": 0.2, 
+            "attack_trajectory": {
+                "effect": 0, 
+                "follow_scale": true, 
+                "scale": 1.0, 
+                "socket": "origin"
+            }, 
+            "cast_effect_list": {
+                "__tuple__": true, 
+                "items": []
+            }, 
+            "cast_sound": 0, 
+            "critical_anim": "attack1", 
+            "damage": 100.0, 
+            "damage_type": 0, 
+            "filter_condition_camp": 1, 
+            "filter_condition_type": 7, 
+            "hit_effect": {
+                "effect": 0, 
+                "follow_scale": true, 
+                "scale": 1.0, 
+                "socket": "origin"
+            }, 
+            "hit_sound": 0, 
+            "order_play_anim": false, 
+            "order_play_reset_time": 0.5, 
+            "trajectory_radian": 1.0, 
+            "trajectory_speed": 1000.0
+        }, 
+        "sound_event_list": [], 
+        "special_idle_anim": "idle2", 
+        "speed_ratio_in_turn": 0.6, 
+        "standard_walk_rate": 36, 
+        "start_rft": 1.0, 
+        "strength": 10, 
+        "strength_grow": 1, 
+        "suffix": "", 
+        "support_range": 50, 
+        "tags": {
+            "__tuple__": true, 
+            "items": [
+                "warrior"
+            ]
+        }, 
+        "theme": 1, 
+        "title_bg_opacity": 1.0, 
+        "title_bg_scale": 1.0, 
+        "title_font_type": "gui/fonts/hy_yakuhei_65w.ttf", 
+        "title_scale": 1.0, 
+        "title_text_size": 40, 
+        "turn_speed": 1, 
+        "type": 4, 
+        "uid": "201357218", 
+        "unit_title": "", 
+        "use_base_tint_color": false, 
+        "vampire_mag": 0, 
+        "vampire_mag_grow": 0, 
+        "vampire_phy": 0, 
+        "vampire_phy_grow": 0, 
+        "vect_drawing": 0, 
+        "view_type": 0, 
+        "vision_night": 80, 
+        "vision_rng": 0.0, 
+        "vision_true": 0, 
+        "vision_true_grow": 0, 
+        "walk_anim": "walk"
+    }, 
+    "201358143": {
+        "affect_techs": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "agility": 10, 
+        "agility_grow": 1, 
+        "alarm_range": 80.0, 
+        "angle_tolerance": 1.0, 
+        "armor_type": 20000, 
+        "attack_interval": 1.0, 
+        "attack_interval_grow": 0.01, 
+        "attack_mag": 50, 
+        "attack_mag_grow": 2, 
+        "attack_phy": 50.0, 
+        "attack_phy_grow": 2, 
+        "attack_range": 10.0, 
+        "attack_range_grow": 0.0, 
+        "attack_speed": 100, 
+        "attack_speed_grow": 0, 
+        "attack_type": 10000, 
+        "back_range": 120, 
+        "bar_show_name": 0, 
+        "bar_show_scale": true, 
+        "bar_show_title": false, 
+        "bar_slot_size": 6, 
+        "bar_title_style": 0, 
+        "base_tint_color": {
+            "__tuple__": true, 
+            "items": [
+                255, 
+                255, 
+                255, 
+                0.5
+            ]
+        }, 
+        "blood_bar": 65537, 
+        "blood_show_type": 0, 
+        "body_size": 1.0, 
+        "box_angle": 360, 
+        "box_length1": 0, 
+        "box_length2": 0, 
+        "box_r": 6, 
+        "box_type": 2, 
+        "build_precondition_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "build_res_cost_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "building_rotatable": true, 
+        "buy_res_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "can_flee": true, 
+        "cancel_alarm_range": 80.0, 
+        "cd_reduce": 0, 
+        "cd_reduce_grow": 0, 
+        "collision": 1, 
+        "collision_points": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "combat_range": 90, 
+        "common_ability_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "common_atk": {
+            "__tuple__": true, 
+            "items": [
+                201347498, 
+                1
+            ]
+        }, 
+        "common_atk_type": 2, 
+        "copper_coin": 100.0, 
+        "critical_chance": 0, 
+        "critical_chance_grow": 0, 
+        "critical_dmg": 200, 
+        "critical_dmg_grow": 0, 
+        "custom_1": 0, 
+        "custom_1_grow": 0, 
+        "default_behaviour_type": "defense", 
+        "defense_mag": 10, 
+        "defense_mag_grow": 5, 
+        "defense_phy": 10, 
+        "defense_phy_grow": 5, 
+        "description": 844445796, 
+        "destroy_after_die": true, 
+        "die_anim": "die", 
+        "dmg_reduction": 0, 
+        "dmg_reduction_grow": 0, 
+        "dodge_rate": 0, 
+        "dodge_rate_grow": 0, 
+        "drop_item": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "drop_items_tuple": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "dye_color": "Blue", 
+        "dye_color_plan": 0, 
+        "dynamic_collision_r": 0.5, 
+        "dynamic_collision_type": 1, 
+        "dynamic_collision_x": 1, 
+        "dynamic_collision_z": 1, 
+        "extra_dmg": 0, 
+        "extra_dmg_grow": 0, 
+        "gainvalue": 0, 
+        "gainvalue_grow": 0, 
+        "gold_coin": 100.0, 
+        "has_mp": true, 
+        "has_shield": true, 
+        "heal_effect": 0, 
+        "heal_effect_grow": 0, 
+        "hero_ability_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "hit_rate": 100, 
+        "hit_rate_grow": 0, 
+        "hp_max": 100.0, 
+        "hp_max_grow": 100, 
+        "hp_rec": 10, 
+        "hp_rec_grow": 1, 
+        "icon": 100820, 
+        "idle_anim": "idle1", 
+        "init_stock": 5, 
+        "intelligence": 10, 
+        "intelligence_grow": 1, 
+        "is_apply_role_color": false, 
+        "is_mini_map_show": true, 
+        "is_shop": false, 
+        "keep_dead_body_time": 2, 
+        "key": 201358143, 
+        "kv": {}, 
+        "level": 1, 
+        "logic_rotate_speed_valid": false, 
+        "logic_upper_rotate_speed_valid": false, 
+        "main_attr": "intelligence", 
+        "max_stock": 5, 
+        "mini_map_icon": 0, 
+        "mini_map_icon_scale": 1, 
+        "model": 104784, 
+        "model_height": 0.0, 
+        "move_channel": 0, 
+        "move_limitation": 1, 
+        "move_type": 40, 
+        "mp_color": "Blue", 
+        "mp_key": "MP", 
+        "mp_max": 600, 
+        "mp_max_grow": 50, 
+        "mp_rec": 80, 
+        "mp_rec_grow": 2, 
+        "name": 1129843854, 
+        "ori_bits": 0, 
+        "ori_speed": 5.0, 
+        "ori_speed_grow": 0, 
+        "passive_ability_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "pene_mag": 0, 
+        "pene_mag_grow": 0, 
+        "pene_mag_ratio": 0, 
+        "pene_mag_ratio_grow": 0, 
+        "pene_phy": 0, 
+        "pene_phy_grow": 0, 
+        "pene_phy_ratio": 0, 
+        "pene_phy_ratio_grow": 0, 
+        "pkg_slot_size": 60, 
+        "precondition_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "refresh_interval": 1.0, 
+        "research_techs": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "resilience": 0, 
+        "resilience_grow": 0, 
+        "reward_exp": 10, 
+        "reward_official_res_1": 0, 
+        "reward_official_res_2": 3.0, 
+        "role_color_scale": 1.0, 
+        "rotate_speed": 9.42, 
+        "scale": 1.2, 
+        "sell_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "sell_res_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "shop_camp_args": 3, 
+        "shop_key": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "shop_range": 10, 
+        "shop_select": false, 
+        "shop_sell_type": 0, 
+        "silver_coin": 100.0, 
+        "simple_common_atk": {
+            "ability_animations": {
+                "__tuple__": true, 
+                "items": []
+            }, 
+            "ability_bw_point": 0.5, 
+            "ability_cast_point": 0.2, 
+            "attack_trajectory": {
+                "effect": 0, 
+                "follow_scale": true, 
+                "scale": 1.0, 
+                "socket": "origin"
+            }, 
+            "cast_effect_list": {
+                "__tuple__": true, 
+                "items": []
+            }, 
+            "cast_sound": 0, 
+            "critical_anim": "attack1", 
+            "damage": 100.0, 
+            "damage_type": 0, 
+            "filter_condition_camp": 1, 
+            "filter_condition_type": 7, 
+            "hit_effect": {
+                "effect": 0, 
+                "follow_scale": true, 
+                "scale": 1.0, 
+                "socket": "origin"
+            }, 
+            "hit_sound": 0, 
+            "order_play_anim": false, 
+            "order_play_reset_time": 0.5, 
+            "trajectory_radian": 1.0, 
+            "trajectory_speed": 1000.0
+        }, 
+        "sound_event_list": [], 
+        "special_idle_anim": "idle2", 
+        "speed_ratio_in_turn": 0.6, 
+        "standard_walk_rate": 36, 
+        "start_rft": 1.0, 
+        "strength": 10, 
+        "strength_grow": 1, 
+        "suffix": "", 
+        "support_range": 50, 
+        "tags": {
+            "__tuple__": true, 
+            "items": [
+                "warrior"
+            ]
+        }, 
+        "theme": 1, 
+        "title_bg_opacity": 1.0, 
+        "title_bg_scale": 1.0, 
+        "title_font_type": "gui/fonts/hy_yakuhei_65w.ttf", 
+        "title_scale": 1.0, 
+        "title_text_size": 40, 
+        "turn_speed": 1, 
+        "type": 4, 
+        "uid": "201358143", 
+        "unit_title": "", 
+        "use_base_tint_color": false, 
+        "vampire_mag": 0, 
+        "vampire_mag_grow": 0, 
+        "vampire_phy": 0, 
+        "vampire_phy_grow": 0, 
+        "vect_drawing": 0, 
+        "view_type": 0, 
+        "vision_night": 80, 
+        "vision_rng": 0.0, 
+        "vision_true": 0, 
+        "vision_true_grow": 0, 
+        "walk_anim": "walk"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "b": [], 
+    "c": [], 
+    "p": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "strength", 
+                {
+                    "k": "strength", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "agility", 
+                {
+                    "k": "agility", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "intelligence", 
+                {
+                    "k": "intelligence", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "main", 
+                {
+                    "k": "main", 
+                    "m": []
+                }
+            ]
+        }
+    ], 
+    "ps": 1
+}

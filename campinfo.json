@@ -1,0 +1,85 @@
+{
+    "camp": {
+        "1": {
+            "camp_name": "$faction 1", 
+            "least_num": 0, 
+            "roles": [
+                1
+            ], 
+            "share_vision": false
+        }, 
+        "2": {
+            "camp_name": "$faction 2", 
+            "least_num": 0, 
+            "roles": [
+                2
+            ], 
+            "share_vision": true
+        }, 
+        "9999": {
+            "camp_name": "$faction 9999", 
+            "least_num": 0, 
+            "roles": [
+                31, 
+                32
+            ], 
+            "share_vision": true
+        }
+    }, 
+    "camp_limit": 1, 
+    "role": {
+        "1": {
+            "camp_id": 1, 
+            "role_color": "#3CF71B", 
+            "role_name": "$player 1", 
+            "role_type": 1
+        }, 
+        "2": {
+            "camp_id": 2, 
+            "role_color": "#FF8000", 
+            "role_name": "$player 2", 
+            "role_type": 1
+        }, 
+        "31": {
+            "camp_id": 9999, 
+            "role_color": "#808080", 
+            "role_name": "$player 31", 
+            "role_type": 3
+        }, 
+        "32": {
+            "camp_id": 9999, 
+            "role_color": "#808080", 
+            "role_name": "$player 32", 
+            "role_type": 3
+        }
+    }, 
+    "role_res_key": 0, 
+    "role_res_types": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "official_res_1", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "gold", 
+                    "icon_id": 100000, 
+                    "is_coin": true, 
+                    "is_editored": false, 
+                    "key": "official_res_1", 
+                    "maximun": [
+                        1000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "gold"
+                }
+            ]
+        }
+    ]
+}

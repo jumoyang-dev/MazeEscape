@@ -1,0 +1,50 @@
+{
+    "group": [], 
+    "key": -1, 
+    "key_order": {}, 
+    "name": "trigger", 
+    "sub_trigger": {
+        "0": {
+            "__tuple__": true, 
+            "items": [
+                1487040513, 
+                "base_trigger"
+            ]
+        }, 
+        "1": {
+            "__tuple__": true, 
+            "items": [
+                455913474, 
+                "Character Switch"
+            ]
+        }, 
+        "2": {
+            "__tuple__": true, 
+            "items": [
+                1504157699, 
+                "Disable Mouse"
+            ]
+        }, 
+        "3": {
+            "__tuple__": true, 
+            "items": [
+                1756532740, 
+                "Movement_Player1"
+            ]
+        }, 
+        "4": {
+            "__tuple__": true, 
+            "items": [
+                1707163653, 
+                "Movement"
+            ]
+        }, 
+        "5": {
+            "__tuple__": true, 
+            "items": [
+                737558534, 
+                "Give Unit WASD Input"
+            ]
+        }
+    }
+}

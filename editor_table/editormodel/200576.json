@@ -1,0 +1,14 @@
+{
+    "describe": 1045600174, 
+    "essential_socket": {}, 
+    "key": 200576, 
+    "map_name": "M4scene", 
+    "model_id": 230012, 
+    "name": -327545534, 
+    "preview_icon": "UP1ModelPreview/200576", 
+    "select_effect_scale": 1.0, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_200576"
+}

@@ -1,0 +1,38 @@
+{
+    "320676837": {
+        "key": 320676837, 
+        "value": "Template"
+    }, 
+    "1364738698": {
+        "key": 1364738698, 
+        "value": "Player_Rock"
+    }, 
+    "$faction 1": {
+        "key": "$faction 1", 
+        "value": "Escaper"
+    }, 
+    "$faction 2": {
+        "key": "$faction 2", 
+        "value": "Master"
+    }, 
+    "$faction 9999": {
+        "key": "$faction 9999", 
+        "value": "Neutral"
+    }, 
+    "$player 1": {
+        "key": "$player 1", 
+        "value": "Player 1"
+    }, 
+    "$player 2": {
+        "key": "$player 2", 
+        "value": "Player 2"
+    }, 
+    "$player 31": {
+        "key": "$player 31", 
+        "value": "Neutral Hostile"
+    }, 
+    "$player 32": {
+        "key": "$player 32", 
+        "value": "Neutral Friendly"
+    }
+}
