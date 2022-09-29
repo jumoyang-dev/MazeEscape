@@ -21,8 +21,8 @@
         "2": {
             "__tuple__": true, 
             "items": [
-                1504157699, 
-                "Disable Mouse"
+                1968304134, 
+                "Models"
             ]
         }, 
         "3": {
@@ -37,6 +37,34 @@
             "items": [
                 737558534, 
                 "Give Unit WASD Input"
+            ]
+        }, 
+        "5": {
+            "__tuple__": true, 
+            "items": [
+                1756700679, 
+                "Player1 Camera"
+            ]
+        }, 
+        "6": {
+            "__tuple__": true, 
+            "items": [
+                373440520, 
+                "Speedboost Activated"
+            ]
+        }, 
+        "7": {
+            "__tuple__": true, 
+            "items": [
+                979869705, 
+                "Speedboost Deactivated"
+            ]
+        }, 
+        "8": {
+            "__tuple__": true, 
+            "items": [
+                1504157699, 
+                "Disable Mouse"
             ]
         }
     }

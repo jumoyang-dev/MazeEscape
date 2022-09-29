@@ -103,9 +103,11 @@
     "variable_comments": {}, 
     "variable_dict": {
         "INTEGER": {}, 
+        "ITEM_ENTITY": {}, 
         "MODEL": {
             "player1Model": 0
         }, 
+        "MODEL_ENTITY_NEW": {}, 
         "UNIT_ENTITY": {}, 
         "UNIT_NAME": {}
     }, 
