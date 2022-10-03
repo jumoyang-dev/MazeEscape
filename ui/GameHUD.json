@@ -50470,6 +50470,6 @@
     "opacity": 1.0, 
     "type": 2, 
     "uid": "GameHUD", 
-    "visible": true, 
+    "visible": false, 
     "zorder": 401
 }

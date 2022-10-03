@@ -38,7 +38,7 @@
                     "text": {
                         "__tuple__": true, 
                         "items": [
-                            "WASD to move", 
+                            "WASD to move, QE to rotate", 
                             false
                         ]
                     }, 

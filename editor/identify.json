@@ -1237,7 +1237,13 @@
   "Control Hint": 1015857767, 
   "Background": 1581581510, 
   "Control Text": 1753703360, 
-  "Control Text(1)": 1650846108
+  "Control Text(1)": 1650846108, 
+  "Transform_UI": 1617093323, 
+  "layout_1": 1033534537, 
+  "button_tree1": 2126849900, 
+  "button_tree2": 1400522025, 
+  "button_tree2(1)": 1946663276, 
+  "button_pillar1": 1837322955
  }, 
  "tv1": {
   "player1Model": 1821114875, 
@@ -1257,6 +1263,7 @@
   "MS_oldWalkAnimDir": 1983129674, 
   "MS_Movement Timer": 2144549937, 
   "MS_walkingDir": 1302779843, 
-  "MS_idleAnim": 1140088143
+  "MS_idleAnim": 1140088143, 
+  "MS_currentAngle": 1519404268
  }
 }

@@ -2,22 +2,36 @@
  {
   "__tuple__": true, 
   "items": [
-   1, 
-   "Tree1"
+   4, 
+   "Tree_1"
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   2, 
-   "Tree1"
+   5, 
+   "Tree_2"
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   3, 
-   "Tree1"
+   6, 
+   "Cactus_1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   7, 
+   "Rock_1"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   8, 
+   "Pillar_1"
   ]
  }
 ]

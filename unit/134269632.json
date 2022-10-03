@@ -212,10 +212,250 @@
                                             "args_list": [
                                                 [
                                                     1562645265, 
-                                                    "Update Facing", 
+                                                    "Rotate by \"QE\" key", 
                                                     1107505155, 
                                                     "action_type"
                                                 ], 
+                                                {
+                                                    "action_type": "SET_VARIABLE", 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100030, 
+                                                            "args_list": [
+                                                                [
+                                                                    "FLOAT", 
+                                                                    "MS_currentAngle", 
+                                                                    "actor"
+                                                                ]
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100000, 
+                                                            "args_list": [
+                                                                {
+                                                                    "arg_type": 100225, 
+                                                                    "args_list": [
+                                                                        {
+                                                                            "arg_type": 100006, 
+                                                                            "args_list": [], 
+                                                                            "sub_type": "CUR_UNIT"
+                                                                        }
+                                                                    ], 
+                                                                    "sub_type": "UNIT_FACE_ANGLE"
+                                                                }
+                                                            ], 
+                                                            "sub_type": "GET_FLOAT_BY_ANGLE"
+                                                        }
+                                                    ], 
+                                                    "bp": false, 
+                                                    "element_id": 1107505155943534, 
+                                                    "enable": true
+                                                }, 
+                                                {
+                                                    "action_type": "IF_THEN_ELSE", 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100021, 
+                                                            "args_list": [
+                                                                {
+                                                                    "args_list": [
+                                                                        {
+                                                                            "arg_type": 100025, 
+                                                                            "args_list": [
+                                                                                [
+                                                                                    "PLAYER", 
+                                                                                    "MS_p", 
+                                                                                    "actor"
+                                                                                ], 
+                                                                                null
+                                                                            ], 
+                                                                            "sub_type": "VARIABLE"
+                                                                        }, 
+                                                                        {
+                                                                            "arg_type": 200220, 
+                                                                            "args_list": [
+                                                                                16
+                                                                            ], 
+                                                                            "sub_type": 1
+                                                                        }
+                                                                    ], 
+                                                                    "condition_type": "PLAYER_KEY_IS_PRESSED", 
+                                                                    "element_id": 1107505155943515, 
+                                                                    "enable": true
+                                                                }
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100022, 
+                                                            "args_list": [
+                                                                {
+                                                                    "action_type": "CHANGE_UNIT_FACE_ANGLE", 
+                                                                    "args_list": [
+                                                                        {
+                                                                            "arg_type": 100006, 
+                                                                            "args_list": [], 
+                                                                            "sub_type": "CUR_UNIT"
+                                                                        }, 
+                                                                        {
+                                                                            "arg_type": 100225, 
+                                                                            "args_list": [
+                                                                                {
+                                                                                    "arg_type": 100000, 
+                                                                                    "args_list": [
+                                                                                        [
+                                                                                            "FLOAT", 
+                                                                                            "MS_currentAngle", 
+                                                                                            "actor"
+                                                                                        ], 
+                                                                                        null
+                                                                                    ], 
+                                                                                    "sub_type": 2
+                                                                                }, 
+                                                                                {
+                                                                                    "arg_type": 100017, 
+                                                                                    "args_list": [
+                                                                                        "+"
+                                                                                    ], 
+                                                                                    "sub_type": 1
+                                                                                }, 
+                                                                                {
+                                                                                    "arg_type": 100000, 
+                                                                                    "args_list": [
+                                                                                        2.0
+                                                                                    ], 
+                                                                                    "sub_type": 1
+                                                                                }
+                                                                            ], 
+                                                                            "sub_type": "ANGLE_OPERATION"
+                                                                        }
+                                                                    ], 
+                                                                    "bp": false, 
+                                                                    "element_id": 1107505155943518, 
+                                                                    "enable": true, 
+                                                                    "op_arg": [
+                                                                        null
+                                                                    ], 
+                                                                    "op_arg_enable": [
+                                                                        false
+                                                                    ]
+                                                                }
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100022, 
+                                                            "args_list": [], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "bp": false, 
+                                                    "element_id": 1107505155943509, 
+                                                    "enable": true
+                                                }, 
+                                                {
+                                                    "action_type": "IF_THEN_ELSE", 
+                                                    "args_list": [
+                                                        {
+                                                            "arg_type": 100021, 
+                                                            "args_list": [
+                                                                {
+                                                                    "args_list": [
+                                                                        {
+                                                                            "arg_type": 100025, 
+                                                                            "args_list": [
+                                                                                [
+                                                                                    "PLAYER", 
+                                                                                    "MS_p", 
+                                                                                    "actor"
+                                                                                ], 
+                                                                                null
+                                                                            ], 
+                                                                            "sub_type": "VARIABLE"
+                                                                        }, 
+                                                                        {
+                                                                            "arg_type": 200220, 
+                                                                            "args_list": [
+                                                                                18
+                                                                            ], 
+                                                                            "sub_type": 1
+                                                                        }
+                                                                    ], 
+                                                                    "condition_type": "PLAYER_KEY_IS_PRESSED", 
+                                                                    "element_id": 1107505155943522, 
+                                                                    "enable": true
+                                                                }
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100022, 
+                                                            "args_list": [
+                                                                {
+                                                                    "action_type": "CHANGE_UNIT_FACE_ANGLE", 
+                                                                    "args_list": [
+                                                                        {
+                                                                            "arg_type": 100006, 
+                                                                            "args_list": [], 
+                                                                            "sub_type": "CUR_UNIT"
+                                                                        }, 
+                                                                        {
+                                                                            "arg_type": 100225, 
+                                                                            "args_list": [
+                                                                                {
+                                                                                    "arg_type": 100000, 
+                                                                                    "args_list": [
+                                                                                        [
+                                                                                            "FLOAT", 
+                                                                                            "MS_currentAngle", 
+                                                                                            "actor"
+                                                                                        ], 
+                                                                                        null
+                                                                                    ], 
+                                                                                    "sub_type": 2
+                                                                                }, 
+                                                                                {
+                                                                                    "arg_type": 100017, 
+                                                                                    "args_list": [
+                                                                                        "+"
+                                                                                    ], 
+                                                                                    "sub_type": 1
+                                                                                }, 
+                                                                                {
+                                                                                    "arg_type": 100000, 
+                                                                                    "args_list": [
+                                                                                        -2.0
+                                                                                    ], 
+                                                                                    "sub_type": 1
+                                                                                }
+                                                                            ], 
+                                                                            "sub_type": "ANGLE_OPERATION"
+                                                                        }
+                                                                    ], 
+                                                                    "bp": false, 
+                                                                    "element_id": 1107505155943526, 
+                                                                    "enable": true, 
+                                                                    "op_arg": [
+                                                                        null
+                                                                    ], 
+                                                                    "op_arg_enable": [
+                                                                        false
+                                                                    ]
+                                                                }
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100022, 
+                                                            "args_list": [], 
+                                                            "sub_type": 1
+                                                        }
+                                                    ], 
+                                                    "bp": false, 
+                                                    "element_id": 1107505155943520, 
+                                                    "enable": true
+                                                }, 
                                                 {
                                                     "action_type": "SET_VARIABLE", 
                                                     "args_list": [
@@ -268,7 +508,7 @@
                                                     ], 
                                                     "bp": false, 
                                                     "element_id": 1107505155000008, 
-                                                    "enable": true
+                                                    "enable": false
                                                 }, 
                                                 {
                                                     "action_type": "CHANGE_UNIT_FACE_ANGLE", 
@@ -293,7 +533,7 @@
                                                     ], 
                                                     "bp": false, 
                                                     "element_id": 1107505155000009, 
-                                                    "enable": true, 
+                                                    "enable": false, 
                                                     "op_arg": [
                                                         {
                                                             "arg_type": 100002, 
@@ -2631,6 +2871,7 @@
         }, 
         "FLOAT": {
             "MS_OldMoveSpeed": 0.0, 
+            "MS_currentAngle": 0.0, 
             "MS_newX": 0.0, 
             "MS_newY": 0.0
         }, 
@@ -2711,12 +2952,17 @@
         [
             "MS_idleAnim", 
             "(MS_idleAnim)"
+        ], 
+        [
+            "MS_currentAngle", 
+            "(MS_currentAngle)"
         ]
     ], 
     "variable_length_dict": {
         "MNS_AnimModifierType": 0, 
         "MS_Movement Timer": 0, 
         "MS_OldMoveSpeed": 0, 
+        "MS_currentAngle": 0, 
         "MS_idleAnim": 0, 
         "MS_mouseDir": 0, 
         "MS_newX": 0, 
@@ -2733,6 +2979,7 @@
         "MNS_AnimModifierType": false, 
         "MS_Movement Timer": false, 
         "MS_OldMoveSpeed": false, 
+        "MS_currentAngle": false, 
         "MS_idleAnim": false, 
         "MS_mouseDir": false, 
         "MS_newX": false, 

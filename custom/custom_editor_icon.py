@@ -1,4 +1,5 @@
 # -*- encoding:utf-8 -*-
 _reload_all = True
 
-data = {}
+
+data = {134237108: {'path': 'ui/134237108', 'describe': '', 'name': u'loadingBackgroundDraft', 'key': 134237108, 'uid': '134237108', 'size': '1920X1080'}, 134275718: {'path': 'ui/134275718', 'describe': '', 'name': u'background', 'key': 134275718, 'uid': '134275718', 'size': '1230X206'}, 134269942: {'path': 'ui/134269942', 'describe': '', 'name': u'tree1', 'key': 134269942, 'uid': '134269942', 'size': '111X109'}, 134247397: {'path': 'ui/134247397', 'describe': '', 'name': u'pillar1', 'key': 134247397, 'uid': '134247397', 'size': '111X109'}, 134222396: {'path': 'ui/134222396', 'describe': '', 'name': u'rock1', 'key': 134222396, 'uid': '134222396', 'size': '111X109'}, 134279831: {'path': 'ui/134279831', 'describe': '', 'name': u'tree2', 'key': 134279831, 'uid': '134279831', 'size': '111X109'}}

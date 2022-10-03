@@ -66,6 +66,13 @@
                 1504157699, 
                 "Disable Mouse"
             ]
+        }, 
+        "9": {
+            "__tuple__": true, 
+            "items": [
+                371769354, 
+                "New Trigger"
+            ]
         }
     }
 }

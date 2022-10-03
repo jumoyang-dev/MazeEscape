@@ -75,6 +75,6 @@
     "opacity": 1.0, 
     "type": 2, 
     "uid": "f5e50920-7b3d-4076-b6a8-599b70783552", 
-    "visible": false, 
+    "visible": true, 
     "zorder": 400
 }
