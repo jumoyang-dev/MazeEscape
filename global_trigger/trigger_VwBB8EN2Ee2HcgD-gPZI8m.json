@@ -1,0 +1,218 @@
+{
+    "trigger_dict": {
+        "371769354": {
+            "action": [
+                {
+                    "action_type": "REPLACE_UNIT_MODEL", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100122, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "MODEL", 
+                                        "player1Model"
+                                    ]
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        2
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": 4
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 371769354000008, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100067, 
+                            "args_list": [
+                                "Transform_tree1"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 371769354000003, 
+                    "enable": true, 
+                    "event_type": "TRIGGER_COMPONENT_EVENT"
+                }
+            ], 
+            "group_id": 0, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 371769354, 
+            "trigger_name": "Transform_tree1", 
+            "valid": true
+        }, 
+        "917680139": {
+            "action": [
+                {
+                    "action_type": "REPLACE_UNIT_MODEL", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100122, 
+                            "args_list": [
+                                [
+                                    "MODEL", 
+                                    "player1Model"
+                                ], 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        4
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": 4
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 917680139000002, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100067, 
+                            "args_list": [
+                                "Transform_tree2"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 917680139000001, 
+                    "enable": true, 
+                    "event_type": "TRIGGER_COMPONENT_EVENT"
+                }
+            ], 
+            "group_id": "VwBB8EN2Ee2HcgD-gPZI8m", 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 917680139, 
+            "trigger_name": "Transform_tree2", 
+            "valid": true
+        }, 
+        "1555271692": {
+            "action": [
+                {
+                    "action_type": "REPLACE_UNIT_MODEL", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100122, 
+                            "args_list": [
+                                [
+                                    "MODEL", 
+                                    "player1Model"
+                                ], 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": 4
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1555271692000002, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100067, 
+                            "args_list": [
+                                "Transform_rock1"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1555271692000001, 
+                    "enable": true, 
+                    "event_type": "TRIGGER_COMPONENT_EVENT"
+                }
+            ], 
+            "group_id": "VwBB8EN2Ee2HcgD-gPZI8m", 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1555271692, 
+            "trigger_name": "Transform_rock1", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    371769354, 
+                    "Transform_tree1"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    917680139, 
+                    "Transform_tree2"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1555271692, 
+                    "Transform_rock1"
+                ]
+            }
+        ], 
+        "key": "VwBB8EN2Ee2HcgD-gPZI8m", 
+        "name": "Bottom_Transform"
+    }
+}

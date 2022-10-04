@@ -7,21 +7,29 @@
                         {
                             "children": [], 
                             "comp_anims": [], 
-                            "event_list": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "Transform_tree1", 
+                                    "sound_id": null, 
+                                    "type": 1
+                                }
+                            ], 
                             "name": "button_tree1", 
                             "normal_picture": 134269942, 
                             "pos": {
                                 "__tuple__": true, 
                                 "items": [
-                                    -195.375, 
-                                    463.625
+                                    -195.37503051757812, 
+                                    463.6251220703125
                                 ]
                             }, 
                             "pos_percent": {
                                 "__tuple__": true, 
                                 "items": [
-                                    -195.375, 
-                                    463.62500000000006
+                                    -195.37503051757812, 
+                                    463.6251220703125
                                 ]
                             }, 
                             "size": {
@@ -37,21 +45,29 @@
                         {
                             "children": [], 
                             "comp_anims": [], 
-                            "event_list": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "Transform_tree2", 
+                                    "sound_id": null, 
+                                    "type": 1
+                                }
+                            ], 
                             "name": "button_tree2", 
                             "normal_picture": 134279831, 
                             "pos": {
                                 "__tuple__": true, 
                                 "items": [
-                                    -66.0, 
-                                    463.0
+                                    -66.00006103515625, 
+                                    463.0001220703125
                                 ]
                             }, 
                             "pos_percent": {
                                 "__tuple__": true, 
                                 "items": [
-                                    -66.0, 
-                                    463.0
+                                    -66.00006103515625, 
+                                    463.0001220703125
                                 ]
                             }, 
                             "size": {
@@ -67,21 +83,29 @@
                         {
                             "children": [], 
                             "comp_anims": [], 
-                            "event_list": [], 
-                            "name": "button_tree2(1)", 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "Transform_rock1", 
+                                    "sound_id": null, 
+                                    "type": 1
+                                }
+                            ], 
+                            "name": "button_rock1", 
                             "normal_picture": 134222396, 
                             "pos": {
                                 "__tuple__": true, 
                                 "items": [
                                     66.0, 
-                                    463.0
+                                    463.0001220703125
                                 ]
                             }, 
                             "pos_percent": {
                                 "__tuple__": true, 
                                 "items": [
                                     66.0, 
-                                    463.0
+                                    463.0001220703125
                                 ]
                             }, 
                             "size": {
@@ -120,7 +144,15 @@
                         {
                             "children": [], 
                             "comp_anims": [], 
-                            "event_list": [], 
+                            "event_list": [
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "Transform_pillar1", 
+                                    "sound_id": null, 
+                                    "type": -1
+                                }
+                            ], 
                             "name": "button_pillar1", 
                             "normal_picture": 134247397, 
                             "pos": {
@@ -177,15 +209,15 @@
             "pos": {
                 "__tuple__": true, 
                 "items": [
-                    712.0, 
-                    1023.0
+                    655.3333740234375, 
+                    1026.8485107421875
                 ]
             }, 
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
-                    37.083333333333336, 
-                    94.72222222222221
+                    34.1319465637207, 
+                    95.07856580946181
                 ]
             }, 
             "size": {

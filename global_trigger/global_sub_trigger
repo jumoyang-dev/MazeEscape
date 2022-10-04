@@ -1,17 +1,4 @@
 {
-    "371769354": {
-        "action": [], 
-        "comment_str": {}, 
-        "condition": [], 
-        "enabled": true, 
-        "event": [], 
-        "group_id": 0, 
-        "p_trigger_id": null, 
-        "script": "", 
-        "trigger_id": 371769354, 
-        "trigger_name": "New Trigger", 
-        "valid": true
-    }, 
     "373440520": {
         "action": [
             {
@@ -4153,6 +4140,38 @@
                 ], 
                 "bp": false, 
                 "element_id": 1968304134000012, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100028, 
+                        "args_list": [
+                            [
+                                "MODEL", 
+                                "player1Model"
+                            ], 
+                            {
+                                "arg_type": 100002, 
+                                "args_list": [
+                                    4
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100122, 
+                        "args_list": [
+                            200571
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1968304134000029, 
                 "enable": true
             }
         ], 

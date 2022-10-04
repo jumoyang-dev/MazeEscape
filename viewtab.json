@@ -2,7 +2,7 @@
     "1": true, 
     "2": true, 
     "3": true, 
-    "4": false, 
+    "4": true, 
     "5": false, 
     "6": true, 
     "7": true, 
@@ -12,6 +12,6 @@
     "11": false, 
     "12": true, 
     "13": true, 
-    "65": false, 
-    "66": false
+    "65": true, 
+    "66": true
 }

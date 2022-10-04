@@ -18,7 +18,22 @@
  {
   "name": "CUSTOM_REC_AREA", 
   "key": 2048, 
-  "group": [], 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000000, 
+     "Region_Jungle"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     1000000001, 
+     "Region_temple"
+    ]
+   }
+  ], 
   "custom_data": {
    "res_type": 2048
   }
