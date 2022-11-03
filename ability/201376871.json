@@ -291,15 +291,15 @@
             "group": [
                 [
                     "Caster", 
-                    "(Caster)_2"
+                    "(Caster)"
                 ], 
                 [
                     "trigger", 
-                    "(trigger)_2"
+                    "(trigger)"
                 ], 
                 [
                     "string", 
-                    "(string)_2"
+                    "(string)"
                 ]
             ], 
             "is_struct": false, 

@@ -512,11 +512,11 @@
     "variable_group_info": [
         [
             "move speed", 
-            "(move speed)_2"
+            "(move speed)"
         ], 
         [
             "damage add", 
-            "(damage add)_2"
+            "(damage add)"
         ]
     ], 
     "variable_length_dict": {

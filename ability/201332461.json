@@ -979,11 +979,11 @@
     "variable_group_info": [
         [
             "start_point", 
-            "(start_point)"
+            "(start_point)_2"
         ], 
         [
             "fog_center", 
-            "(fog_center)"
+            "(fog_center)_2"
         ]
     ], 
     "variable_length_dict": {

@@ -1114,23 +1114,23 @@
     "variable_group_info": [
         [
             "fire", 
-            "(fire)"
+            "(fire)_2"
         ], 
         [
             "index", 
-            "(index)"
+            "(index)_2"
         ], 
         [
             "center_point", 
-            "(center_point)"
+            "(center_point)_2"
         ], 
         [
             "cur_particle", 
-            "(cur_particle)"
+            "(cur_particle)_2"
         ], 
         [
             "cur_points", 
-            "(cur_points)"
+            "(cur_points)_2"
         ]
     ], 
     "variable_length_dict": {

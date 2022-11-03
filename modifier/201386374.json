@@ -889,15 +889,15 @@
     "variable_group_info": [
         [
             "\u79fb\u901f", 
-            "(\u79fb\u901f)_2"
+            "(\u79fb\u901f)"
         ], 
         [
             "\u51cf\u7532", 
-            "(\u51cf\u7532)_2"
+            "(\u51cf\u7532)"
         ], 
         [
             "particle", 
-            "(particle)_2"
+            "(particle)"
         ]
     ], 
     "variable_length_dict": {

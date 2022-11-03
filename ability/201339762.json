@@ -998,15 +998,15 @@
     "variable_group_info": [
         [
             "pr", 
-            "(pr)_2"
+            "(pr)"
         ], 
         [
             "pr2", 
-            "(pr2)_2"
+            "(pr2)"
         ], 
         [
             "area", 
-            "(area)_2"
+            "(area)"
         ]
     ], 
     "variable_length_dict": {

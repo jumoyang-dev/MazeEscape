@@ -1384,23 +1384,23 @@
     "variable_group_info": [
         [
             "gray_dmg", 
-            "(gray_dmg)_2"
+            "(gray_dmg)"
         ], 
         [
             "g_timer", 
-            "(g_timer)_2"
+            "(g_timer)"
         ], 
         [
             "g_timer2", 
-            "(g_timer2)_2"
+            "(g_timer2)"
         ], 
         [
             "bf", 
-            "(bf)_2"
+            "(bf)"
         ], 
         [
             "trg5", 
-            "(trg5)_2"
+            "(trg5)"
         ]
     ], 
     "variable_length_dict": {

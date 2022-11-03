@@ -1945,15 +1945,15 @@
     "variable_group_info": [
         [
             "fire1", 
-            "(fire1)"
+            "(fire1)_2"
         ], 
         [
             "fire2", 
-            "(fire2)"
+            "(fire2)_2"
         ], 
         [
             "distance", 
-            "(distance)"
+            "(distance)_2"
         ]
     ], 
     "variable_length_dict": {

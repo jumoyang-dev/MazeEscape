@@ -950,15 +950,15 @@
     "variable_group_info": [
         [
             "normal_arrow", 
-            "(normal_arrow)"
+            "(normal_arrow)_2"
         ], 
         [
             "bird_arrow", 
-            "(bird_arrow)"
+            "(bird_arrow)_2"
         ], 
         [
             "bird_timer", 
-            "(bird_timer)"
+            "(bird_timer)_2"
         ]
     ], 
     "variable_length_dict": {

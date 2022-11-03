@@ -461,11 +461,11 @@
     "variable_group_info": [
         [
             "start_point", 
-            "(start_point)_2"
+            "(start_point)"
         ], 
         [
             "wave", 
-            "(wave)_2"
+            "(wave)"
         ]
     ], 
     "variable_length_dict": {

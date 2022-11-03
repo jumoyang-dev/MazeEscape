@@ -364,11 +364,11 @@
     "variable_group_info": [
         [
             "trigger", 
-            "(trigger)_2"
+            "(trigger)"
         ], 
         [
             "move speed", 
-            "(move speed)_2"
+            "(move speed)"
         ]
     ], 
     "variable_length_dict": {

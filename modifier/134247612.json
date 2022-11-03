@@ -217,11 +217,11 @@
     "variable_group_info": [
         [
             "move_speed", 
-            "(move_speed)_2"
+            "(move_speed)"
         ], 
         [
             "def_down", 
-            "(def_down)_2"
+            "(def_down)"
         ]
     ], 
     "variable_length_dict": {

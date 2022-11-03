@@ -2098,7 +2098,7 @@
             "group": [
                 [
                     "4\u98ce\u683c\u548c", 
-                    "(4\u98ce\u683c\u548c)_2"
+                    "(4\u98ce\u683c\u548c)"
                 ]
             ], 
             "is_struct": false, 
@@ -2107,7 +2107,7 @@
         }, 
         [
             "AniRandom", 
-            "(AniRandom)_2"
+            "(AniRandom)"
         ]
     ], 
     "variable_length_dict": {

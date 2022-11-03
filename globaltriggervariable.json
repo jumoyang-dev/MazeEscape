@@ -127,12 +127,16 @@
     }, 
     "variable_comments": {}, 
     "variable_dict": {
+        "FLOAT": {
+            "Smoke_TImer_Hider1": 0.0
+        }, 
         "INTEGER": {}, 
         "ITEM_ENTITY": {}, 
         "MODEL": {
             "player1Model": 0
         }, 
         "MODEL_ENTITY_NEW": {}, 
+        "NEW_TIMER": {}, 
         "SCENE_UI": {
             "ButtonUI": null
         }, 
@@ -153,18 +157,28 @@
                 "ButtonUI", 
                 "(ButtonUI)"
             ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Smoke_TImer_Hider1", 
+                "(Smoke_TImer_Hider1)"
+            ]
         }
     ], 
     "variable_length_dict": {
         "ButtonUI": 10, 
+        "Smoke_TImer_Hider1": 0, 
         "player1Model": 10
     }, 
     "variable_remark": {
         "ButtonUI": "", 
+        "Smoke_TImer_Hider1": "", 
         "player1Model": ""
     }, 
     "variable_type_dict": {
         "ButtonUI": true, 
+        "Smoke_TImer_Hider1": false, 
         "player1Model": true
     }
 }

@@ -1231,19 +1231,19 @@
     "variable_group_info": [
         [
             "door1", 
-            "(door1)_2"
+            "(door1)"
         ], 
         [
             "door1_2", 
-            "(door1_2)_2"
+            "(door1_2)"
         ], 
         [
             "jishiqi", 
-            "(jishiqi)_2"
+            "(jishiqi)"
         ], 
         [
             "transport", 
-            "(transport)_2"
+            "(transport)"
         ]
     ], 
     "variable_length_dict": {

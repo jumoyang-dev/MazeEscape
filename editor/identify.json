@@ -1252,7 +1252,8 @@
  "tv1": {
   "player1Model": 1821114875, 
   "Cactus-1": 1576607663, 
-  "ButtonUI": 1750566600
+  "ButtonUI": 1750566600, 
+  "Smoke_TImer_Hider1": 1906923108
  }, 
  "tv6": {
   "MS_OldMoveSpeed": 2048904174, 

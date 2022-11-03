@@ -1367,23 +1367,23 @@
     "variable_group_info": [
         [
             "ChangeSwitch", 
-            "(ChangeSwitch)_2"
+            "(ChangeSwitch)"
         ], 
         [
             "baseAttackSpeed", 
-            "(baseAttackSpeed)_2"
+            "(baseAttackSpeed)"
         ], 
         [
             "extraAttackSpeedRate", 
-            "(extraAttackSpeedRate)_2"
+            "(extraAttackSpeedRate)"
         ], 
         [
             "extraAttackSpeed", 
-            "(extraAttackSpeed)_2"
+            "(extraAttackSpeed)"
         ], 
         [
             "baseAttackSpeedRate", 
-            "(baseAttackSpeedRate)_2"
+            "(baseAttackSpeedRate)"
         ]
     ], 
     "variable_length_dict": {

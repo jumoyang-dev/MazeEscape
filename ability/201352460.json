@@ -1375,31 +1375,31 @@
     "variable_group_info": [
         [
             "points", 
-            "(points)"
+            "(points)_2"
         ], 
         [
             "tail", 
-            "(tail)"
+            "(tail)_2"
         ], 
         [
             "frame", 
-            "(frame)"
+            "(frame)_2"
         ], 
         [
             "points_index", 
-            "(points_index)"
+            "(points_index)_2"
         ], 
         [
             "damages_index", 
-            "(damages_index)"
+            "(damages_index)_2"
         ], 
         [
             "damages_frames", 
-            "(damages_frames)"
+            "(damages_frames)_2"
         ], 
         [
             "damages_values", 
-            "(damages_values)"
+            "(damages_values)_2"
         ]
     ], 
     "variable_length_dict": {

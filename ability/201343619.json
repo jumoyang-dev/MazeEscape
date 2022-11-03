@@ -669,11 +669,11 @@
     "variable_group_info": [
         [
             "point", 
-            "(point)"
+            "(point)_2"
         ], 
         [
             "timer", 
-            "(timer)"
+            "(timer)_2"
         ]
     ], 
     "variable_length_dict": {

@@ -2905,63 +2905,63 @@
     "variable_group_info": [
         [
             "MS_OldMoveSpeed", 
-            "(MS_OldMoveSpeed)_2"
+            "(MS_OldMoveSpeed)"
         ], 
         [
             "MNS_AnimModifierType", 
-            "(MNS_AnimModifierType)_2"
+            "(MNS_AnimModifierType)"
         ], 
         [
             "MS_wallHit", 
-            "(MS_wallHit)_2"
+            "(MS_wallHit)"
         ], 
         [
             "MS_newX", 
-            "(MS_newX)_2"
+            "(MS_newX)"
         ], 
         [
             "MS_tPoint", 
-            "(MS_tPoint)_2"
+            "(MS_tPoint)"
         ], 
         [
             "MS_newY", 
-            "(MS_newY)_2"
+            "(MS_newY)"
         ], 
         [
             "MS_mouseDir", 
-            "(MS_mouseDir)_2"
+            "(MS_mouseDir)"
         ], 
         [
             "MS_walking", 
-            "(MS_walking)_2"
+            "(MS_walking)"
         ], 
         [
             "MS_walkAnimDir", 
-            "(MS_walkAnimDir)_2"
+            "(MS_walkAnimDir)"
         ], 
         [
             "MS_p", 
-            "(MS_p)_2"
+            "(MS_p)"
         ], 
         [
             "MS_oldWalkAnimDir", 
-            "(MS_oldWalkAnimDir)_2"
+            "(MS_oldWalkAnimDir)"
         ], 
         [
             "MS_Movement Timer", 
-            "(MS_Movement Timer)_2"
+            "(MS_Movement Timer)"
         ], 
         [
             "MS_walkingDir", 
-            "(MS_walkingDir)_2"
+            "(MS_walkingDir)"
         ], 
         [
             "MS_idleAnim", 
-            "(MS_idleAnim)_2"
+            "(MS_idleAnim)"
         ], 
         [
             "MS_currentAngle", 
-            "(MS_currentAngle)_2"
+            "(MS_currentAngle)"
         ]
     ], 
     "variable_length_dict": {

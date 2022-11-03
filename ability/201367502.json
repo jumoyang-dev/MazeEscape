@@ -1738,15 +1738,15 @@
     "variable_group_info": [
         [
             "start_point", 
-            "(start_point)"
+            "(start_point)_2"
         ], 
         [
             "waves", 
-            "(waves)"
+            "(waves)_2"
         ], 
         [
             "dir", 
-            "(dir)"
+            "(dir)_2"
         ]
     ], 
     "variable_length_dict": {

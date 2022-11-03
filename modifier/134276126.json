@@ -489,7 +489,7 @@
     "variable_group_info": [
         [
             "move_speed", 
-            "(move_speed)_2"
+            "(move_speed)"
         ]
     ], 
     "variable_length_dict": {
