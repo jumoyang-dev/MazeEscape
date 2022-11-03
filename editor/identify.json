@@ -183,7 +183,7 @@
   "layout_7": 1790008627, 
   "image_26": 2079556145, 
   "attack_speed_txt": 1247524358, 
-  "layout_2": 1729357690, 
+  "layout_2": 1438356072, 
   "image_1": 1327071462, 
   "move_speed_txt": 1104377350, 
   "layout_3": 1107658127, 
@@ -1239,15 +1239,20 @@
   "Control Text": 1753703360, 
   "Control Text(1)": 1650846108, 
   "Transform_UI": 1617093323, 
-  "layout_1": 1033534537, 
   "button_tree1": 2126849900, 
   "button_tree2": 1400522025, 
   "button_pillar1": 1837322955, 
-  "button_rock1": 1706754620
+  "button_rock1": 1706754620, 
+  "layout_jungle": 1170722680, 
+  "layout_temple": 1854637945, 
+  "Hider_Ability_UI": 2113654692, 
+  "ui_view_draging_comp_2": 1932855617, 
+  "Smoke Bomb": 1703430066
  }, 
  "tv1": {
   "player1Model": 1821114875, 
-  "Cactus-1": 1576607663
+  "Cactus-1": 1576607663, 
+  "ButtonUI": 1750566600
  }, 
  "tv6": {
   "MS_OldMoveSpeed": 2048904174, 

@@ -1,5 +1,30 @@
 {
     "local_variable": {
+        "375111704": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "smoke_Ready": false
+                }, 
+                "FLOAT": {
+                    "smoke_Timer": 0.0
+                }, 
+                "NEW_TIMER": {}, 
+                "PROJECTILE_ENTITY": {}, 
+                "SFX_KEY": {
+                    "smoke1": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "smoke1": 0, 
+                "smoke_Ready": 0, 
+                "smoke_Timer": 0
+            }, 
+            "variable_type_dict": {
+                "smoke1": false, 
+                "smoke_Ready": false, 
+                "smoke_Timer": false
+            }
+        }, 
         "737558534": {
             "variable_dict": {
                 "ANGLE": {
@@ -108,6 +133,9 @@
             "player1Model": 0
         }, 
         "MODEL_ENTITY_NEW": {}, 
+        "SCENE_UI": {
+            "ButtonUI": null
+        }, 
         "UNIT_ENTITY": {}, 
         "UNIT_NAME": {}
     }, 
@@ -118,15 +146,25 @@
                 "player1Model", 
                 "(player1Model)"
             ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "ButtonUI", 
+                "(ButtonUI)"
+            ]
         }
     ], 
     "variable_length_dict": {
+        "ButtonUI": 10, 
         "player1Model": 10
     }, 
     "variable_remark": {
+        "ButtonUI": "", 
         "player1Model": ""
     }, 
     "variable_type_dict": {
+        "ButtonUI": true, 
         "player1Model": true
     }
 }

@@ -185,6 +185,67 @@
             "trigger_id": 1555271692, 
             "trigger_name": "Transform_rock1", 
             "valid": true
+        }, 
+        "1787719703": {
+            "action": [
+                {
+                    "action_type": "REPLACE_UNIT_MODEL", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100122, 
+                            "args_list": [
+                                [
+                                    "MODEL", 
+                                    "player1Model"
+                                ], 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        5
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": 4
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1787719703000002, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100067, 
+                            "args_list": [
+                                "Transform_pillar1"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1787719703000001, 
+                    "enable": true, 
+                    "event_type": "TRIGGER_COMPONENT_EVENT"
+                }
+            ], 
+            "group_id": "VwBB8EN2Ee2HcgD-gPZI8m", 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1787719703, 
+            "trigger_name": "Transform_pillar1", 
+            "valid": true
         }
     }, 
     "trigger_group_info": {
@@ -210,9 +271,16 @@
                     1555271692, 
                     "Transform_rock1"
                 ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1787719703, 
+                    "Transform_pillar1"
+                ]
             }
         ], 
         "key": "VwBB8EN2Ee2HcgD-gPZI8m", 
-        "name": "Bottom_Transform"
+        "name": "Buttom_Transform"
     }
 }

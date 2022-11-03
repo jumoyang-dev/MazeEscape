@@ -1,6 +1,8 @@
 {
     "_custom_": true, 
     "_ref_": 134226949, 
+    "attach_models": [], 
+    "cast_shadow": true, 
     "collision_box": {
         "__tuple__": true, 
         "items": [

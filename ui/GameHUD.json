@@ -756,7 +756,8 @@
                 ]
             }, 
             "type": 7, 
-            "uid": "currencyBg"
+            "uid": "currencyBg", 
+            "visible": false
         }, 
         {
             "adapter_option": [
@@ -11279,7 +11280,8 @@
                         ]
                     }, 
                     "type": 7, 
-                    "uid": "item_panel"
+                    "uid": "item_panel", 
+                    "visible": false
                 }, 
                 {
                     "children": [
@@ -17216,7 +17218,8 @@
                         ]
                     }, 
                     "type": 1, 
-                    "uid": "bagBtn"
+                    "uid": "bagBtn", 
+                    "visible": false
                 }
             ], 
             "comp_anims": [], 
@@ -20262,7 +20265,8 @@
                 ]
             }, 
             "type": 7, 
-            "uid": "hero_list"
+            "uid": "hero_list", 
+            "visible": false
         }, 
         {
             "adapter_option": [
@@ -20546,7 +20550,8 @@
                 ]
             }, 
             "type": 4, 
-            "uid": "mini_map"
+            "uid": "mini_map", 
+            "visible": false
         }, 
         {
             "bg_image": 100485, 
@@ -46451,7 +46456,8 @@
                 ]
             }, 
             "type": 10, 
-            "uid": "scroll_view_10"
+            "uid": "scroll_view_10", 
+            "visible": false
         }, 
         {
             "bg_image": 100485, 
@@ -48416,7 +48422,8 @@
                 ]
             }, 
             "type": 10, 
-            "uid": "RTSFeatureList"
+            "uid": "RTSFeatureList", 
+            "visible": false
         }, 
         {
             "adapter_option": [
@@ -48797,7 +48804,8 @@
                 ]
             }, 
             "type": 7, 
-            "uid": "Menu"
+            "uid": "Menu", 
+            "visible": false
         }, 
         {
             "adapter_option": [

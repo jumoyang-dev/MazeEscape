@@ -1,4 +1,106 @@
 {
+    "210095": {
+        "attach_models": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "cast_shadow": true, 
+        "collision_box": {
+            "__tuple__": true, 
+            "items": [
+                [
+                    -10, 
+                    6
+                ], 
+                [
+                    -10, 
+                    -3
+                ], 
+                [
+                    10, 
+                    -3
+                ], 
+                [
+                    10, 
+                    6
+                ]
+            ]
+        }, 
+        "collision_height": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "collision_points": {
+            "__tuple__": true, 
+            "items": [
+                [
+                    -3, 
+                    -1
+                ], 
+                [
+                    2, 
+                    1
+                ], 
+                0
+            ]
+        }, 
+        "description": 326094088, 
+        "effect_list": {
+            "__tuple__": true, 
+            "items": [
+                [
+                    100007, 
+                    [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ], 
+                    1.0
+                ]
+            ]
+        }, 
+        "icon": 100000, 
+        "key": 210095, 
+        "kv": {}, 
+        "material_alpha": 0, 
+        "material_change": 0, 
+        "material_color": {
+            "__tuple__": true, 
+            "items": [
+                255, 
+                255, 
+                255
+            ]
+        }, 
+        "material_color_intensity": 0, 
+        "model": 100525, 
+        "name": 502900380, 
+        "random_max_scale": 1.2, 
+        "random_min_scale": 0.8, 
+        "receive_decal": false, 
+        "scale": 1, 
+        "sfx_key": 0, 
+        "sfx_offset": {
+            "__tuple__": true, 
+            "items": [
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "sfx_scale": 1.0, 
+        "suffix": "", 
+        "tags": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "theme": 8, 
+        "type": 8, 
+        "ui_scale": 1, 
+        "uid": "ldxy_props_stele02", 
+        "use_physics": false, 
+        "visible": true
+    }, 
     "134225821": {
         "_custom_": true, 
         "_ref_": 134225821, 
@@ -76,6 +178,8 @@
     "134226949": {
         "_custom_": true, 
         "_ref_": 134226949, 
+        "attach_models": [], 
+        "cast_shadow": true, 
         "collision_box": {
             "__tuple__": true, 
             "items": [

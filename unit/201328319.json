@@ -367,7 +367,13 @@
                                     ], 
                                     "bp": false, 
                                     "element_id": 16951828490006, 
-                                    "enable": true
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null
+                                    ], 
+                                    "op_arg_enable": [
+                                        false
+                                    ]
                                 }, 
                                 {
                                     "action_type": "CHANGE_UNIT_FACE_ANGLE", 
@@ -575,7 +581,7 @@
     "variable_group_info": [
         [
             "timer", 
-            "(timer)"
+            "(timer)_2"
         ]
     ], 
     "variable_length_dict": {

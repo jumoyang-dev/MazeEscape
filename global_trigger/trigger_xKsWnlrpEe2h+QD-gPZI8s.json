@@ -1,0 +1,263 @@
+{
+    "trigger_dict": {
+        "373440520": {
+            "action": [
+                {
+                    "action_type": "SET_ATTR", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100300, 
+                            "args_list": [
+                                "ATTR_BASE"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100042, 
+                            "args_list": [
+                                "ori_speed"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                1000.0
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 373440520000049, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 200220, 
+                            "args_list": [
+                                42
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 373440520000002, 
+                    "enable": true, 
+                    "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+                }
+            ], 
+            "group_id": 0, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 373440520, 
+            "trigger_name": "Speedboost Activated", 
+            "valid": true
+        }, 
+        "979869705": {
+            "action": [
+                {
+                    "action_type": "SET_ATTR", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100300, 
+                            "args_list": [
+                                "ATTR_BASE"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100042, 
+                            "args_list": [
+                                "ori_speed"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                600.0
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 979869705000006, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 200220, 
+                            "args_list": [
+                                42
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 979869705000002, 
+                    "enable": true, 
+                    "event_type": "KEYBOARD_KEY_UP_EVENT"
+                }
+            ], 
+            "group_id": 0, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 979869705, 
+            "trigger_name": "Speedboost Deactivated", 
+            "valid": true
+        }, 
+        "1756700679": {
+            "action": [
+                {
+                    "action_type": "NEW_CAMERA_SET_FOLLOW_UNIT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1756700679000060, 
+                    "enable": true, 
+                    "op_arg": [
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                0.0
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                0
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                5000
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "op_arg_enable": [
+                        false, 
+                        false, 
+                        false
+                    ]
+                }, 
+                {
+                    "action_type": "NEW_CAMERA_SET_MOVE_NOT_ENABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1756700679000074, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "condition_type": "IS_UNIT_ALIVE", 
+                    "element_id": 1756700679000070, 
+                    "enable": true
+                }
+            ], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1756700679000001, 
+                    "enable": true, 
+                    "event_type": "INIT_FINISHED"
+                }
+            ], 
+            "group_id": 0, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 1756700679, 
+            "trigger_name": "Player1 Camera", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    373440520, 
+                    "Speedboost Activated"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    979869705, 
+                    "Speedboost Deactivated"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    1756700679, 
+                    "Player1 Camera"
+                ]
+            }
+        ], 
+        "key": "xKsWnlrpEe2h+QD-gPZI8s", 
+        "name": "Player Controller"
+    }
+}

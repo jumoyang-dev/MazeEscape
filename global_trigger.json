@@ -3,6 +3,7 @@
     "eatriggers": [], 
     "eavariable_group": [], 
     "variable_remark": {
+        "ButtonUI": "", 
         "player1Model": ""
     }
 }

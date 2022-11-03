@@ -1,0 +1,213 @@
+{
+    "trigger_dict": {
+        "2040819726": {
+            "action": [
+                {
+                    "action_type": "SHOW_UI_COMP_WITH_ANIMATION", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100070, 
+                            "args_list": [
+                                "d5058cfb-2122-41cc-9abe-3229890fd7b6"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2040819726000015, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_UI_COMP_VISIBLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100070, 
+                            "args_list": [
+                                "5cc549a1-4ca4-444d-896b-1d9bffceef2d"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2140110861000012, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100044, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100009, 
+                            "args_list": [
+                                1000000001
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 2040819726000011, 
+                    "enable": true, 
+                    "event_type": "UNIT_REGION_EVENT"
+                }
+            ], 
+            "group_id": 0, 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 2040819726, 
+            "trigger_name": "Temple", 
+            "valid": true
+        }, 
+        "2140110861": {
+            "action": [
+                {
+                    "action_type": "SHOW_UI_COMP_WITH_ANIMATION", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100070, 
+                            "args_list": [
+                                "5cc549a1-4ca4-444d-896b-1d9bffceef2d"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2140110861000009, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_UI_COMP_VISIBLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100025, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100070, 
+                            "args_list": [
+                                "d5058cfb-2122-41cc-9abe-3229890fd7b6"
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2140110861000012, 
+                    "enable": true
+                }
+            ], 
+            "comment_str": {}, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100044, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100009, 
+                            "args_list": [
+                                1000000000
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 2140110861000016, 
+                    "enable": true, 
+                    "event_type": "UNIT_REGION_EVENT"
+                }
+            ], 
+            "group_id": "lVF6QFrsEe2pwAD-gPZI8h", 
+            "p_trigger_id": null, 
+            "script": "", 
+            "trigger_id": 2140110861, 
+            "trigger_name": "Jungle", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    2140110861, 
+                    "Jungle"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    2040819726, 
+                    "Temple"
+                ]
+            }
+        ], 
+        "key": "lVF6QFrsEe2pwAD-gPZI8h", 
+        "name": "Regions Behavior"
+    }
+}

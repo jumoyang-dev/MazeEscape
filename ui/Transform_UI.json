@@ -14,6 +14,20 @@
                                     "name": "Transform_tree1", 
                                     "sound_id": null, 
                                     "type": 1
+                                }, 
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "button_tree1_enlarge", 
+                                    "sound_id": null, 
+                                    "type": 24
+                                }, 
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "button_tree1_shrink", 
+                                    "sound_id": null, 
+                                    "type": 25
                                 }
                             ], 
                             "name": "button_tree1", 
@@ -52,6 +66,20 @@
                                     "name": "Transform_tree2", 
                                     "sound_id": null, 
                                     "type": 1
+                                }, 
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "button_tree2_enlarge", 
+                                    "sound_id": null, 
+                                    "type": 24
+                                }, 
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "button_tree2_shrink", 
+                                    "sound_id": null, 
+                                    "type": 25
                                 }
                             ], 
                             "name": "button_tree2", 
@@ -90,6 +118,20 @@
                                     "name": "Transform_rock1", 
                                     "sound_id": null, 
                                     "type": 1
+                                }, 
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "button_rock1_enlarge", 
+                                    "sound_id": null, 
+                                    "type": 24
+                                }, 
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "button_rock1_shrink", 
+                                    "sound_id": null, 
+                                    "type": 25
                                 }
                             ], 
                             "name": "button_rock1", 
@@ -121,7 +163,7 @@
                     ], 
                     "comp_anims": [], 
                     "event_list": [], 
-                    "name": "layout_1", 
+                    "name": "layout_jungle", 
                     "pos": {
                         "__tuple__": true, 
                         "items": [
@@ -150,7 +192,21 @@
                                     "enabled": true, 
                                     "name": "Transform_pillar1", 
                                     "sound_id": null, 
-                                    "type": -1
+                                    "type": 1
+                                }, 
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "button_pillar1_enlarge", 
+                                    "sound_id": null, 
+                                    "type": 24
+                                }, 
+                                {
+                                    "action_list": [], 
+                                    "enabled": true, 
+                                    "name": "button_pillar1_shrink", 
+                                    "sound_id": null, 
+                                    "type": 25
                                 }
                             ], 
                             "name": "button_pillar1", 
@@ -182,7 +238,7 @@
                     ], 
                     "comp_anims": [], 
                     "event_list": [], 
-                    "name": "layout_2", 
+                    "name": "layout_temple", 
                     "pos": {
                         "__tuple__": true, 
                         "items": [

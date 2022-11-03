@@ -1811,7 +1811,13 @@
                                                                     ], 
                                                                     "bp": false, 
                                                                     "element_id": 1107505155000043, 
-                                                                    "enable": true
+                                                                    "enable": true, 
+                                                                    "op_arg": [
+                                                                        null
+                                                                    ], 
+                                                                    "op_arg_enable": [
+                                                                        false
+                                                                    ]
                                                                 }, 
                                                                 {
                                                                     "action_type": "IF_THEN_ELSE", 
@@ -2899,63 +2905,63 @@
     "variable_group_info": [
         [
             "MS_OldMoveSpeed", 
-            "(MS_OldMoveSpeed)"
+            "(MS_OldMoveSpeed)_2"
         ], 
         [
             "MNS_AnimModifierType", 
-            "(MNS_AnimModifierType)"
+            "(MNS_AnimModifierType)_2"
         ], 
         [
             "MS_wallHit", 
-            "(MS_wallHit)"
+            "(MS_wallHit)_2"
         ], 
         [
             "MS_newX", 
-            "(MS_newX)"
+            "(MS_newX)_2"
         ], 
         [
             "MS_tPoint", 
-            "(MS_tPoint)"
+            "(MS_tPoint)_2"
         ], 
         [
             "MS_newY", 
-            "(MS_newY)"
+            "(MS_newY)_2"
         ], 
         [
             "MS_mouseDir", 
-            "(MS_mouseDir)"
+            "(MS_mouseDir)_2"
         ], 
         [
             "MS_walking", 
-            "(MS_walking)"
+            "(MS_walking)_2"
         ], 
         [
             "MS_walkAnimDir", 
-            "(MS_walkAnimDir)"
+            "(MS_walkAnimDir)_2"
         ], 
         [
             "MS_p", 
-            "(MS_p)"
+            "(MS_p)_2"
         ], 
         [
             "MS_oldWalkAnimDir", 
-            "(MS_oldWalkAnimDir)"
+            "(MS_oldWalkAnimDir)_2"
         ], 
         [
             "MS_Movement Timer", 
-            "(MS_Movement Timer)"
+            "(MS_Movement Timer)_2"
         ], 
         [
             "MS_walkingDir", 
-            "(MS_walkingDir)"
+            "(MS_walkingDir)_2"
         ], 
         [
             "MS_idleAnim", 
-            "(MS_idleAnim)"
+            "(MS_idleAnim)_2"
         ], 
         [
             "MS_currentAngle", 
-            "(MS_currentAngle)"
+            "(MS_currentAngle)_2"
         ]
     ], 
     "variable_length_dict": {

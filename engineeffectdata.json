@@ -22,6 +22,6 @@
         "sky_box_type": "world/lingsheng/skybox/HDR_00.png"
     }, 
     "terrain": {
-        "terrain_version": 1
+        "terrain_version": 2
     }
 }

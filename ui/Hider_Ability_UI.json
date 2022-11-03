@@ -1,0 +1,49 @@
+{
+    "children": [
+        {
+            "children": [], 
+            "comp_anims": [], 
+            "event_list": [
+                {
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "Smoke Bomb_0", 
+                    "sound_id": null, 
+                    "type": 1
+                }
+            ], 
+            "name": "Smoke Bomb", 
+            "normal_picture": 134232593, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    1823.0, 
+                    540.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    94.94791666666667, 
+                    50.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    105.0, 
+                    105.0
+                ]
+            }, 
+            "type": 1, 
+            "uid": "938e0380-1dbe-4b2e-a7c6-e02163f3c393"
+        }
+    ], 
+    "editor_visible": false, 
+    "name": "Hider_Ability_UI", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "uid": "f0c6e622-a8a0-4d32-88d8-f1e65e732bb8", 
+    "visible": true, 
+    "zorder": 400
+}

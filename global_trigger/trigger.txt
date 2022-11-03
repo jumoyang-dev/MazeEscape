@@ -2,67 +2,29 @@
     "group": [], 
     "key": -1, 
     "key_order": {
-        "VwBB8EN2Ee2HcgD-gPZI8m": 9
+        "2D7WcFrpEe2i8wD-gPZI8q": 6, 
+        "FVudz1rwEe2OCwD-gPZI8q": 3, 
+        "VwBB8EN2Ee2HcgD-gPZI8m": 4, 
+        "lVF6QFrsEe2pwAD-gPZI8h": 7, 
+        "xKsWnlrpEe2h+QD-gPZI8s": 5
     }, 
     "name": "trigger", 
     "sub_trigger": {
         "0": {
             "__tuple__": true, 
             "items": [
-                1487040513, 
-                "base_trigger"
-            ]
-        }, 
-        "1": {
-            "__tuple__": true, 
-            "items": [
-                455913474, 
-                "Character Switch"
-            ]
-        }, 
-        "2": {
-            "__tuple__": true, 
-            "items": [
-                1968304134, 
-                "Models"
-            ]
-        }, 
-        "3": {
-            "__tuple__": true, 
-            "items": [
                 1707163653, 
                 "Movement"
             ]
         }, 
-        "4": {
+        "1": {
             "__tuple__": true, 
             "items": [
                 737558534, 
                 "Give Unit WASD Input"
             ]
         }, 
-        "5": {
-            "__tuple__": true, 
-            "items": [
-                1756700679, 
-                "Player1 Camera"
-            ]
-        }, 
-        "6": {
-            "__tuple__": true, 
-            "items": [
-                373440520, 
-                "Speedboost Activated"
-            ]
-        }, 
-        "7": {
-            "__tuple__": true, 
-            "items": [
-                979869705, 
-                "Speedboost Deactivated"
-            ]
-        }, 
-        "8": {
+        "2": {
             "__tuple__": true, 
             "items": [
                 1504157699, 
