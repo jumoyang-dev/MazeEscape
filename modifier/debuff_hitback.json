@@ -186,6 +186,7 @@
                 }
             ], 
             "group_id": 0, 
+            "is_conf": true, 
             "p_trigger_id": false, 
             "script": "", 
             "trigger_id": 943316995, 
@@ -615,6 +616,7 @@
                 }
             ], 
             "group_id": 0, 
+            "is_conf": true, 
             "p_trigger_id": false, 
             "script": "", 
             "trigger_id": 2117689346, 

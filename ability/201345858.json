@@ -441,7 +441,17 @@
                                     ], 
                                     "bp": false, 
                                     "element_id": 16440360970094, 
-                                    "enable": true
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null, 
+                                        null, 
+                                        null
+                                    ], 
+                                    "op_arg_enable": [
+                                        false, 
+                                        false, 
+                                        false
+                                    ]
                                 }, 
                                 {
                                     "action_type": "CREATE_SFX_ON_UNIT", 
@@ -920,7 +930,17 @@
                                                                                     ], 
                                                                                     "bp": false, 
                                                                                     "element_id": 16440360970011, 
-                                                                                    "enable": true
+                                                                                    "enable": true, 
+                                                                                    "op_arg": [
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null
+                                                                                    ], 
+                                                                                    "op_arg_enable": [
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false
+                                                                                    ]
                                                                                 }, 
                                                                                 {
                                                                                     "action_type": "PROJECTILE_DELETE", 

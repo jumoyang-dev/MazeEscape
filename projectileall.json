@@ -17,6 +17,14 @@
             {
                 "__tuple__": true, 
                 "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
                     4.0, 
                     4.0, 
                     4.0
@@ -26,6 +34,14 @@
         ], 
         "effect_friend": [
             101605, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
             {
                 "__tuple__": true, 
                 "items": [
@@ -61,6 +77,73 @@
         }, 
         "uid": "134237222"
     }, 
+    "134239557": {
+        "10": 0, 
+        "_custom_": true, 
+        "_ref_": 134239557, 
+        "async_effect": false, 
+        "description": -635251616, 
+        "effect_foes": {
+            "__tuple__": true, 
+            "items": [
+                100430, 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                1.0
+            ]
+        }, 
+        "effect_friend": {
+            "__tuple__": true, 
+            "items": [
+                100430, 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ], 
+                [
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                1.0
+            ]
+        }, 
+        "icon": 100000, 
+        "key": 134239557, 
+        "kv": {}, 
+        "max_duration": 60, 
+        "name": -1683499659, 
+        "sfx_loop": true, 
+        "sound_event_list": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "suffix": "", 
+        "tags": {
+            "__tuple__": true, 
+            "items": []
+        }, 
+        "uid": "134239557"
+    }, 
     "134265440": {
         "_custom_": true, 
         "_ref_": 134265440, 
@@ -68,6 +151,14 @@
         "description": 1457990733, 
         "effect_foes": [
             100622, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
             {
                 "__tuple__": true, 
                 "items": [
@@ -88,6 +179,14 @@
         ], 
         "effect_friend": [
             100622, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0
+                ]
+            }, 
             {
                 "__tuple__": true, 
                 "items": [

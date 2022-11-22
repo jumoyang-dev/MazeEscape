@@ -485,7 +485,17 @@
                                                     ], 
                                                     "bp": false, 
                                                     "element_id": 14356602890004, 
-                                                    "enable": true
+                                                    "enable": true, 
+                                                    "op_arg": [
+                                                        null, 
+                                                        null, 
+                                                        null
+                                                    ], 
+                                                    "op_arg_enable": [
+                                                        false, 
+                                                        false, 
+                                                        false
+                                                    ]
                                                 }, 
                                                 {
                                                     "action_type": "ADD_MODIFIER", 
@@ -580,6 +590,12 @@
                                                                     ], 
                                                                     "sub_type": 1
                                                                 }
+                                                            ], 
+                                                            "op_arg": [
+                                                                null
+                                                            ], 
+                                                            "op_arg_enable": [
+                                                                false
                                                             ], 
                                                             "sub_type": "CREATE_LINK_SFX_FROM_UNIT_TO_UNIT"
                                                         }
@@ -763,7 +779,17 @@
                     ], 
                     "bp": false, 
                     "element_id": 14356602890009, 
-                    "enable": true
+                    "enable": true, 
+                    "op_arg": [
+                        null, 
+                        null, 
+                        null
+                    ], 
+                    "op_arg_enable": [
+                        false, 
+                        false, 
+                        false
+                    ]
                 }, 
                 {
                     "action_type": "UNREG_TRIGGER", 

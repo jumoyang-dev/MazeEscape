@@ -227,6 +227,7 @@
                 }
             ], 
             "group_id": 1001, 
+            "is_conf": true, 
             "p_trigger_id": false, 
             "script": "", 
             "trigger_id": 402505729, 

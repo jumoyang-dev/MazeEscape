@@ -1222,5 +1222,921 @@
     ]
    }
   ]
+ }, 
+ {
+  "name": "Center", 
+  "key": "Ezz7j2nuEe2L-gD-gPZI8u", 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     14, 
+     "Exit", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     15, 
+     "Building2373", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     16, 
+     "Building2374", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     18, 
+     "Building2361", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     19, 
+     "Building2361", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     20, 
+     "Building2355", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     21, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     28, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     29, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     30, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     31, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     32, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     44, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     45, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     46, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     47, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     48, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     49, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     50, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     51, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     52, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     53, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     54, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     55, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     56, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     57, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     58, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     59, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     60, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     61, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     62, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     63, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     64, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     65, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     66, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     67, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     68, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     69, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     70, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     71, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     72, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     73, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     74, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     75, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     76, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     77, 
+     "Building2352", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     99, 
+     "Building2371", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     100, 
+     "Building2371", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     142, 
+     "Building2355", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     143, 
+     "Building2355", 
+     16384
+    ]
+   }
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   108, 
+   "stair1", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   109, 
+   "Furniture2085", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   110, 
+   "Furniture2085", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   111, 
+   "Furniture2085", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   112, 
+   "Furniture2085", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   113, 
+   "Furniture2085", 
+   16384
+  ]
+ }, 
+ {
+  "name": "Wall", 
+  "key": "G23+gGn5Ee2F0wD-gPZI8o", 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     119, 
+     "Decoration2124", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     120, 
+     "Decoration2124", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     121, 
+     "Decoration2126", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     122, 
+     "Decoration2139", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     123, 
+     "Decoration2141", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     124, 
+     "Decoration2124", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     125, 
+     "Decoration2124", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     126, 
+     "Decoration2126", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     127, 
+     "Decoration2139", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     128, 
+     "Decoration2141", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     129, 
+     "Decoration2126", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     130, 
+     "Decoration2139", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     131, 
+     "Decoration2124", 
+     16384
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     132, 
+     "Decoration2124", 
+     16384
+    ]
+   }
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   144, 
+   "stair1", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   146, 
+   "bridge1", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   147, 
+   "stair1", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   148, 
+   "Decoration2318", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   149, 
+   "Decoration2317", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   150, 
+   "Decoration2317", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   151, 
+   "Decoration2196", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   152, 
+   "Decoration2196", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   154, 
+   "Decoration2217", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   157, 
+   "Building2021", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   158, 
+   "Building2020", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   159, 
+   "Building2007", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   160, 
+   "Building2006", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   174, 
+   "Building2020", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   177, 
+   "Furniture2077", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   179, 
+   "Furniture2077", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   181, 
+   "Building2372", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   182, 
+   "Building2372", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   183, 
+   "Building2372", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   191, 
+   "Building2375", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   192, 
+   "Building2375", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   196, 
+   "Building2348", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   202, 
+   "Building2348", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   203, 
+   "Building2348", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   310, 
+   "Building2348", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   313, 
+   "Building2341", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   314, 
+   "Building2325", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   316, 
+   "Building2319", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   317, 
+   "Building2324", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   320, 
+   "Building2317", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   321, 
+   "Building2317", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   322, 
+   "Building2317", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   324, 
+   "Building1120", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   325, 
+   "Building1120", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   326, 
+   "Sculpture1055", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   327, 
+   "Sculpture1055", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   328, 
+   "Sculpture1055", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   329, 
+   "Sculpture1055", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   332, 
+   "Sculpture1069", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   336, 
+   "Rock1028", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   338, 
+   "Sculpture1072", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   341, 
+   "Building2006", 
+   16384
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   342, 
+   "stair1", 
+   16384
+  ]
  }
 ]

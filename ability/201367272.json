@@ -135,6 +135,12 @@
                                     "sub_type": 1
                                 }
                             ], 
+                            "op_arg": [
+                                null
+                            ], 
+                            "op_arg_enable": [
+                                false
+                            ], 
                             "sub_type": "CREATE_LINK_SFX_FROM_UNIT_TO_UNIT"
                         }
                     ], 

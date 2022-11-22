@@ -349,7 +349,17 @@
                                     ], 
                                     "bp": false, 
                                     "element_id": 16440360970003, 
-                                    "enable": true
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null, 
+                                        null, 
+                                        null
+                                    ], 
+                                    "op_arg_enable": [
+                                        false, 
+                                        false, 
+                                        false
+                                    ]
                                 }, 
                                 {
                                     "action_type": "CREATE_SFX_ON_UNIT", 

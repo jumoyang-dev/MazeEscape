@@ -1,4 +1,19 @@
 {
-    "conf": {}, 
-    "group_info": []
+    "conf": {
+        "1096261215": [
+            [
+                "test int", 
+                100002
+            ]
+        ]
+    }, 
+    "group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                1096261215, 
+                "Test Event"
+            ]
+        }
+    ]
 }

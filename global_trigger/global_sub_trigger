@@ -3060,7 +3060,13 @@
         "func_id": "fccc11cf3b9d11edb71e7c8ae149339e", 
         "func_name": "Give Unit WASD Input", 
         "func_param_list": [
-            "WASDTarget"
+            {
+                "__tuple__": true, 
+                "items": [
+                    "WASDTarget", 
+                    true
+                ]
+            }
         ], 
         "group_id": 0, 
         "is_func": true, 
@@ -3327,8 +3333,20 @@
         "func_id": "037af4803b9c11ed953f7c8ae149339e", 
         "func_name": "Movement", 
         "func_param_list": [
-            "PlayerHider", 
-            "Player1Unit"
+            {
+                "__tuple__": true, 
+                "items": [
+                    "PlayerHider", 
+                    true
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    "Player1Unit", 
+                    true
+                ]
+            }
         ], 
         "group_id": 0, 
         "is_func": true, 

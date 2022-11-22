@@ -215,7 +215,17 @@
                                     ], 
                                     "bp": false, 
                                     "element_id": 8177991690033, 
-                                    "enable": true
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null, 
+                                        null, 
+                                        null
+                                    ], 
+                                    "op_arg_enable": [
+                                        false, 
+                                        false, 
+                                        false
+                                    ]
                                 }, 
                                 {
                                     "action_type": "ADD_MODIFIER", 

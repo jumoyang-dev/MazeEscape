@@ -558,7 +558,17 @@
                                     ], 
                                     "bp": false, 
                                     "element_id": 643809320012, 
-                                    "enable": true
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null, 
+                                        null, 
+                                        null
+                                    ], 
+                                    "op_arg_enable": [
+                                        false, 
+                                        false, 
+                                        false
+                                    ]
                                 }, 
                                 {
                                     "action_type": "ADD_MODIFIER", 
@@ -697,7 +707,17 @@
                                     ], 
                                     "bp": false, 
                                     "element_id": 643809320014, 
-                                    "enable": true
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null, 
+                                        null, 
+                                        null
+                                    ], 
+                                    "op_arg_enable": [
+                                        false, 
+                                        false, 
+                                        false
+                                    ]
                                 }, 
                                 {
                                     "action_type": "CREATE_SFX_ON_POINT", 
@@ -929,7 +949,17 @@
                                     ], 
                                     "bp": false, 
                                     "element_id": 643809320017, 
-                                    "enable": true
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null, 
+                                        null, 
+                                        null
+                                    ], 
+                                    "op_arg_enable": [
+                                        false, 
+                                        false, 
+                                        false
+                                    ]
                                 }, 
                                 {
                                     "action_type": "CREATE_SFX_ON_POINT", 
@@ -1294,7 +1324,17 @@
                                                     ], 
                                                     "bp": false, 
                                                     "element_id": 643809320022, 
-                                                    "enable": true
+                                                    "enable": true, 
+                                                    "op_arg": [
+                                                        null, 
+                                                        null, 
+                                                        null
+                                                    ], 
+                                                    "op_arg_enable": [
+                                                        false, 
+                                                        false, 
+                                                        false
+                                                    ]
                                                 }
                                             ], 
                                             "sub_type": 1

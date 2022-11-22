@@ -8,6 +8,9 @@
                 "FLOAT": {
                     "smoke_Timer": 0.0
                 }, 
+                "INTEGER": {
+                    "looperTimes": 1
+                }, 
                 "NEW_TIMER": {}, 
                 "PROJECTILE_ENTITY": {}, 
                 "SFX_KEY": {
@@ -15,11 +18,13 @@
                 }
             }, 
             "variable_length_dict": {
+                "looperTimes": 0, 
                 "smoke1": 0, 
                 "smoke_Ready": 0, 
                 "smoke_Timer": 0
             }, 
             "variable_type_dict": {
+                "looperTimes": false, 
                 "smoke1": false, 
                 "smoke_Ready": false, 
                 "smoke_Timer": false
@@ -128,6 +133,7 @@
     "variable_comments": {}, 
     "variable_dict": {
         "FLOAT": {
+            "Smoke_Cooldown": 10.0, 
             "Smoke_TImer_Hider1": 0.0
         }, 
         "INTEGER": {}, 
@@ -164,20 +170,24 @@
                 "Smoke_TImer_Hider1", 
                 "(Smoke_TImer_Hider1)"
             ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Smoke_Cooldown", 
+                "Smoke_Cooldown_2"
+            ]
         }
     ], 
     "variable_length_dict": {
         "ButtonUI": 10, 
+        "Smoke_Cooldown": 0, 
         "Smoke_TImer_Hider1": 0, 
         "player1Model": 10
     }, 
-    "variable_remark": {
-        "ButtonUI": "", 
-        "Smoke_TImer_Hider1": "", 
-        "player1Model": ""
-    }, 
     "variable_type_dict": {
         "ButtonUI": true, 
+        "Smoke_Cooldown": false, 
         "Smoke_TImer_Hider1": false, 
         "player1Model": true
     }

@@ -119,6 +119,7 @@
                 }
             ], 
             "group_id": 201342588, 
+            "is_conf": true, 
             "p_trigger_id": false, 
             "script": "", 
             "trigger_id": 136794113, 
@@ -302,6 +303,7 @@
                 }
             ], 
             "group_id": 201342588, 
+            "is_conf": true, 
             "p_trigger_id": false, 
             "script": "", 
             "trigger_id": 1009217538, 
@@ -375,7 +377,17 @@
                     ], 
                     "bp": false, 
                     "element_id": 14214144030004, 
-                    "enable": true
+                    "enable": true, 
+                    "op_arg": [
+                        null, 
+                        null, 
+                        null
+                    ], 
+                    "op_arg_enable": [
+                        false, 
+                        false, 
+                        false
+                    ]
                 }
             ], 
             "comment_str": {}, 

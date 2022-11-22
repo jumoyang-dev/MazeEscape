@@ -244,7 +244,17 @@
                                     ], 
                                     "bp": false, 
                                     "element_id": 8055971860004, 
-                                    "enable": true
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null, 
+                                        null, 
+                                        null
+                                    ], 
+                                    "op_arg_enable": [
+                                        false, 
+                                        false, 
+                                        false
+                                    ]
                                 }, 
                                 {
                                     "action_type": "APPLY_DAMAGE", 
@@ -299,7 +309,17 @@
                                     ], 
                                     "bp": false, 
                                     "element_id": 8055971860019, 
-                                    "enable": true
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null, 
+                                        null, 
+                                        null
+                                    ], 
+                                    "op_arg_enable": [
+                                        false, 
+                                        false, 
+                                        false
+                                    ]
                                 }
                             ], 
                             "sub_type": 1

@@ -761,7 +761,17 @@
                                                     ], 
                                                     "bp": false, 
                                                     "element_id": 13284147210006, 
-                                                    "enable": true
+                                                    "enable": true, 
+                                                    "op_arg": [
+                                                        null, 
+                                                        null, 
+                                                        null
+                                                    ], 
+                                                    "op_arg_enable": [
+                                                        false, 
+                                                        false, 
+                                                        false
+                                                    ]
                                                 }, 
                                                 {
                                                     "action_type": "REMOVE_BUFF_TYPE", 
@@ -1641,6 +1651,7 @@
                 }
             ], 
             "group_id": 10000, 
+            "is_conf": true, 
             "p_trigger_id": false, 
             "script": "", 
             "trigger_id": 1328414721, 
@@ -2060,7 +2071,17 @@
                     ], 
                     "bp": false, 
                     "element_id": 20834181150124, 
-                    "enable": true
+                    "enable": true, 
+                    "op_arg": [
+                        null, 
+                        null, 
+                        null
+                    ], 
+                    "op_arg_enable": [
+                        false, 
+                        false, 
+                        false
+                    ]
                 }
             ], 
             "comment_str": {}, 
@@ -2075,6 +2096,7 @@
                 }
             ], 
             "group_id": 10000, 
+            "is_conf": true, 
             "p_trigger_id": false, 
             "script": "", 
             "trigger_id": 2083418115, 

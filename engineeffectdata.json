@@ -22,6 +22,39 @@
         "sky_box_type": "world/lingsheng/skybox/HDR_00.png"
     }, 
     "terrain": {
-        "terrain_version": 2
+        "terrain_model": 1, 
+        "terrain_version": 2, 
+        "water_materials": [
+            {
+                "color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.050980392156862744, 
+                        0.12156862745098039, 
+                        0.33725490196078434
+                    ]
+                }, 
+                "custom_color": true, 
+                "flow_direction": 90.0, 
+                "flow_perturbation": 0.26, 
+                "flow_speed": 0.3, 
+                "mat_id": 1
+            }, 
+            {
+                "color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.9450980392156862, 
+                        0.11372549019607843, 
+                        0.00392156862745098
+                    ]
+                }, 
+                "custom_color": true, 
+                "flow_direction": 0.0, 
+                "flow_perturbation": 1.0, 
+                "flow_speed": 1.0, 
+                "mat_id": 2
+            }
+        ]
     }
 }

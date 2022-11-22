@@ -186,7 +186,17 @@
                                     ], 
                                     "bp": false, 
                                     "element_id": 6917693460005, 
-                                    "enable": true
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null, 
+                                        null, 
+                                        null
+                                    ], 
+                                    "op_arg_enable": [
+                                        false, 
+                                        false, 
+                                        false
+                                    ]
                                 }, 
                                 {
                                     "action_type": "CURE_UNIT", 
@@ -231,7 +241,15 @@
                                     ], 
                                     "bp": false, 
                                     "element_id": 6917693460006, 
-                                    "enable": true
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null, 
+                                        null
+                                    ], 
+                                    "op_arg_enable": [
+                                        false, 
+                                        false
+                                    ]
                                 }, 
                                 {
                                     "action_type": "CREATE_SFX_ON_UNIT", 

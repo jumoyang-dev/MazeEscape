@@ -118,6 +118,7 @@
                 }
             ], 
             "group_id": 201365126, 
+            "is_conf": true, 
             "p_trigger_id": false, 
             "script": "", 
             "trigger_id": 136794113, 
@@ -281,6 +282,7 @@
                 }
             ], 
             "group_id": 201365126, 
+            "is_conf": true, 
             "p_trigger_id": false, 
             "script": "", 
             "trigger_id": 1009217538, 

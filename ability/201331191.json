@@ -630,7 +630,17 @@
                                                     ], 
                                                     "bp": false, 
                                                     "element_id": 3368222740008, 
-                                                    "enable": true
+                                                    "enable": true, 
+                                                    "op_arg": [
+                                                        null, 
+                                                        null, 
+                                                        null
+                                                    ], 
+                                                    "op_arg_enable": [
+                                                        false, 
+                                                        false, 
+                                                        false
+                                                    ]
                                                 }, 
                                                 {
                                                     "action_type": "ADD_MODIFIER", 
@@ -1645,7 +1655,17 @@
                                                                     ], 
                                                                     "bp": false, 
                                                                     "element_id": 16116408330010, 
-                                                                    "enable": true
+                                                                    "enable": true, 
+                                                                    "op_arg": [
+                                                                        null, 
+                                                                        null, 
+                                                                        null
+                                                                    ], 
+                                                                    "op_arg_enable": [
+                                                                        false, 
+                                                                        false, 
+                                                                        false
+                                                                    ]
                                                                 }
                                                             ], 
                                                             "sub_type": 1

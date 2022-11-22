@@ -724,7 +724,17 @@
                                                                                                     ], 
                                                                                                     "bp": false, 
                                                                                                     "element_id": 19690168340011, 
-                                                                                                    "enable": true
+                                                                                                    "enable": true, 
+                                                                                                    "op_arg": [
+                                                                                                        null, 
+                                                                                                        null, 
+                                                                                                        null
+                                                                                                    ], 
+                                                                                                    "op_arg_enable": [
+                                                                                                        false, 
+                                                                                                        false, 
+                                                                                                        false
+                                                                                                    ]
                                                                                                 }, 
                                                                                                 {
                                                                                                     "action_type": "CURE_UNIT", 
@@ -793,7 +803,15 @@
                                                                                                     ], 
                                                                                                     "bp": false, 
                                                                                                     "element_id": 19690168340012, 
-                                                                                                    "enable": true
+                                                                                                    "enable": true, 
+                                                                                                    "op_arg": [
+                                                                                                        null, 
+                                                                                                        null
+                                                                                                    ], 
+                                                                                                    "op_arg_enable": [
+                                                                                                        false, 
+                                                                                                        false
+                                                                                                    ]
                                                                                                 }
                                                                                             ], 
                                                                                             "sub_type": 1

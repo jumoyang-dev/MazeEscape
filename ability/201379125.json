@@ -741,7 +741,17 @@
                                                     ], 
                                                     "bp": false, 
                                                     "element_id": 16440360970008, 
-                                                    "enable": true
+                                                    "enable": true, 
+                                                    "op_arg": [
+                                                        null, 
+                                                        null, 
+                                                        null
+                                                    ], 
+                                                    "op_arg_enable": [
+                                                        false, 
+                                                        false, 
+                                                        false
+                                                    ]
                                                 }, 
                                                 {
                                                     "action_type": "APPLY_DAMAGE", 
@@ -810,7 +820,17 @@
                                                     ], 
                                                     "bp": false, 
                                                     "element_id": 16440360970009, 
-                                                    "enable": true
+                                                    "enable": true, 
+                                                    "op_arg": [
+                                                        null, 
+                                                        null, 
+                                                        null
+                                                    ], 
+                                                    "op_arg_enable": [
+                                                        false, 
+                                                        false, 
+                                                        false
+                                                    ]
                                                 }, 
                                                 {
                                                     "action_type": "REMOVE_BUFF_TYPE", 
@@ -905,7 +925,17 @@
                                                     ], 
                                                     "bp": false, 
                                                     "element_id": 16440360970011, 
-                                                    "enable": true
+                                                    "enable": true, 
+                                                    "op_arg": [
+                                                        null, 
+                                                        null, 
+                                                        null
+                                                    ], 
+                                                    "op_arg_enable": [
+                                                        false, 
+                                                        false, 
+                                                        false
+                                                    ]
                                                 }
                                             ], 
                                             "sub_type": 1

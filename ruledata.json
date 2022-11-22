@@ -248,6 +248,9 @@
             "sys_auto": true
         }, 
         "326": 360, 
+        "327": true, 
+        "328": 48.0, 
+        "329": 48.0, 
         "330": 0, 
         "401": true, 
         "403": true, 
@@ -271,6 +274,8 @@
             0.5
         ], 
         "421": 1, 
+        "426": "lambda unit: Fix32(unit.phy_dmg) * (Fix32(1) - (Fix32(unit.defense_phy) * Fix32(0.06)) / (Fix32(unit.defense_phy) * Fix32(0.06) + Fix32(1)))", 
+        "427": "lambda unit: Fix32(unit.mag_dmg) * (Fix32(1) - (Fix32(unit.defense_mag) * Fix32(0.06)) / (Fix32(unit.defense_mag) * Fix32(0.06) + Fix32(1)))", 
         "101514": 101514, 
         "101515": 101515, 
         "101516": 101516, 

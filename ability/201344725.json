@@ -597,7 +597,17 @@
                                                                     ], 
                                                                     "bp": false, 
                                                                     "element_id": 15497052180066, 
-                                                                    "enable": true
+                                                                    "enable": true, 
+                                                                    "op_arg": [
+                                                                        null, 
+                                                                        null, 
+                                                                        null
+                                                                    ], 
+                                                                    "op_arg_enable": [
+                                                                        false, 
+                                                                        false, 
+                                                                        false
+                                                                    ]
                                                                 }
                                                             ], 
                                                             "sub_type": 1
@@ -820,7 +830,17 @@
                                                                     ], 
                                                                     "bp": false, 
                                                                     "element_id": 15497052180010, 
-                                                                    "enable": true
+                                                                    "enable": true, 
+                                                                    "op_arg": [
+                                                                        null, 
+                                                                        null, 
+                                                                        null
+                                                                    ], 
+                                                                    "op_arg_enable": [
+                                                                        false, 
+                                                                        false, 
+                                                                        false
+                                                                    ]
                                                                 }, 
                                                                 {
                                                                     "action_type": "ADD_MODIFIER", 
@@ -1053,7 +1073,17 @@
                                     ], 
                                     "bp": false, 
                                     "element_id": 15497052180015, 
-                                    "enable": true
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null, 
+                                        null, 
+                                        null
+                                    ], 
+                                    "op_arg_enable": [
+                                        false, 
+                                        false, 
+                                        false
+                                    ]
                                 }, 
                                 {
                                     "action_type": "IF_THEN_ELSE", 

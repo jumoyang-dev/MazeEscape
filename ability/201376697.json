@@ -550,7 +550,17 @@
                                                                                     ], 
                                                                                     "bp": false, 
                                                                                     "element_id": 12395315220008, 
-                                                                                    "enable": true
+                                                                                    "enable": true, 
+                                                                                    "op_arg": [
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null
+                                                                                    ], 
+                                                                                    "op_arg_enable": [
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false
+                                                                                    ]
                                                                                 }
                                                                             ], 
                                                                             "sub_type": 1
@@ -756,7 +766,17 @@
                                     ], 
                                     "bp": false, 
                                     "element_id": 12395315220013, 
-                                    "enable": true
+                                    "enable": true, 
+                                    "op_arg": [
+                                        null, 
+                                        null, 
+                                        null
+                                    ], 
+                                    "op_arg_enable": [
+                                        false, 
+                                        false, 
+                                        false
+                                    ]
                                 }, 
                                 {
                                     "action_type": "PROJECTILE_DELETE", 

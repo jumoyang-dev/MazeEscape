@@ -858,7 +858,17 @@
                                                     ], 
                                                     "bp": false, 
                                                     "element_id": 17410867220012, 
-                                                    "enable": true
+                                                    "enable": true, 
+                                                    "op_arg": [
+                                                        null, 
+                                                        null, 
+                                                        null
+                                                    ], 
+                                                    "op_arg_enable": [
+                                                        false, 
+                                                        false, 
+                                                        false
+                                                    ]
                                                 }, 
                                                 {
                                                     "action_type": "CREATE_STRAIGHT_MOVER", 

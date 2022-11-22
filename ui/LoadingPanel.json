@@ -52,7 +52,6 @@
             "image": 106408, 
             "name": "loading_bar_percent", 
             "open_adapter": true, 
-            "percent": 70.0, 
             "pos": {
                 "__tuple__": true, 
                 "items": [

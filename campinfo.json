@@ -44,13 +44,13 @@
             "camp_id": 9999, 
             "role_color": "#808080", 
             "role_name": "$player 31", 
-            "role_type": 3
+            "role_type": 2
         }, 
         "32": {
             "camp_id": 9999, 
             "role_color": "#808080", 
             "role_name": "$player 32", 
-            "role_type": 3
+            "role_type": 2
         }
     }, 
     "role_res_key": 0, 

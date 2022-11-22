@@ -437,7 +437,17 @@
                                                                                     ], 
                                                                                     "bp": false, 
                                                                                     "element_id": 6364487700006, 
-                                                                                    "enable": true
+                                                                                    "enable": true, 
+                                                                                    "op_arg": [
+                                                                                        null, 
+                                                                                        null, 
+                                                                                        null
+                                                                                    ], 
+                                                                                    "op_arg_enable": [
+                                                                                        false, 
+                                                                                        false, 
+                                                                                        false
+                                                                                    ]
                                                                                 }, 
                                                                                 {
                                                                                     "action_type": "ADD_MODIFIER", 
@@ -955,7 +965,17 @@
                                                                                                     ], 
                                                                                                     "bp": false, 
                                                                                                     "element_id": 6364487700064, 
-                                                                                                    "enable": true
+                                                                                                    "enable": true, 
+                                                                                                    "op_arg": [
+                                                                                                        null, 
+                                                                                                        null, 
+                                                                                                        null
+                                                                                                    ], 
+                                                                                                    "op_arg_enable": [
+                                                                                                        false, 
+                                                                                                        false, 
+                                                                                                        false
+                                                                                                    ]
                                                                                                 }, 
                                                                                                 {
                                                                                                     "action_type": "ADD_MODIFIER", 
@@ -1485,7 +1505,17 @@
                                                                                                     ], 
                                                                                                     "bp": false, 
                                                                                                     "element_id": 6364487700025, 
-                                                                                                    "enable": true
+                                                                                                    "enable": true, 
+                                                                                                    "op_arg": [
+                                                                                                        null, 
+                                                                                                        null, 
+                                                                                                        null
+                                                                                                    ], 
+                                                                                                    "op_arg_enable": [
+                                                                                                        false, 
+                                                                                                        false, 
+                                                                                                        false
+                                                                                                    ]
                                                                                                 }, 
                                                                                                 {
                                                                                                     "action_type": "ADD_MODIFIER", 

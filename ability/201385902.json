@@ -198,6 +198,12 @@
                                     "sub_type": 1
                                 }
                             ], 
+                            "op_arg": [
+                                null
+                            ], 
+                            "op_arg_enable": [
+                                false
+                            ], 
                             "sub_type": "CREATE_LINK_SFX_FROM_UNIT_TO_UNIT"
                         }
                     ], 
@@ -543,7 +549,17 @@
                                                     ], 
                                                     "bp": false, 
                                                     "element_id": 15497052180009, 
-                                                    "enable": true
+                                                    "enable": true, 
+                                                    "op_arg": [
+                                                        null, 
+                                                        null, 
+                                                        null
+                                                    ], 
+                                                    "op_arg_enable": [
+                                                        false, 
+                                                        false, 
+                                                        false
+                                                    ]
                                                 }, 
                                                 {
                                                     "action_type": "IF_THEN_ELSE", 

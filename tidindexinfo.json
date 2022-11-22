@@ -16,5 +16,11 @@
         "index_type": "object_editor", 
         "item_key": 134269632, 
         "prop_key": "name"
+    }, 
+    "2112312060": {
+        "editor_type": "editor_decoration", 
+        "index_type": "object_editor", 
+        "item_key": 134259785, 
+        "prop_key": "name"
     }
 }
